@@ -19,17 +19,17 @@
     * [Non-guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#042-non-guaranteed-ways-of-acquiring-skills)
     * [Training skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#043-training-skills)
   * [Spells and Mindcraft](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.5.md#05-spells-and-mindcraft)
-  * Stats                                                       0.6
-    * Increasing stats                                        0.6.1
-      * Exercising stats naturally                          0.6.1.1
-      * Training with Garth                                 0.6.1.2
-      * Herbs                                               0.6.1.3
-      * Eating corpses                                      0.6.1.4
-      * Potions                                             0.6.1.5
-      * Crystals of knowledge                               0.6.1.6
-    * Rearranging stats                                       0.6.2
-      * Potions of exchange                                 0.6.2.1
-      * Potions of balance                                  0.6.2.2
+  * [Stats](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#06-stats)
+    * [Increasing stats](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#061-increasing-stats)
+      * [Exercising stats naturally](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0611-exercising-stats-naturally)
+      * [Training with Garth](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0612-training-with-garth)
+      * [Herbs](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0613-training-stats-with-herbs)
+      * [Eating corpses](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0614-increasing-stats-by-eating-corpses)
+      * [Potions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0615-increasing-stats-with-potions)
+      * [Crystals of knowledge](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0616-crystals-of-knowledge)
+    * [Rearranging stats](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#062-rearranging-stats)
+      * [Potions of exchange](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0621-potions-of-exchange)
+      * [Potions of balance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0622-potions-of-balance)
   * Weapon skills                                               0.7
     * Jack of all trades or master of one?                    0.7.1
     * Class considerations - what weapon to specialize in     0.7.2
