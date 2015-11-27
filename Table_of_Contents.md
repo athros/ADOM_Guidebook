@@ -1,10 +1,10 @@
-* # WHOLE-GAME ISSUES                                               0
-  * Races, classes and their combination                        0.1
-    * General characteristics                 0.1.1
-    * Lifespans                       0.1.2
-    * Special considerations                  0.1.3
-    * Race-specific starting items                0.1.4
-    * Class-specific starting items               0.1.5
+* # Whole Game Issues
+  * [Races, classes and their combination](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#01-races-classes-and-their-combinations)
+    * [General characteristics](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#011-general-characteristics)
+    * [Lifespans](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#012-lifespans)
+    * [Special considerations](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#013-special-considerations)
+    * [Race-specific starting items](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#014-race-specific-starting-items)
+    * [Class-specific starting items](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#015-class-specific-starting-items)
   * Alignment and Altars                                        0.2
     * What is alignment?                                      0.2.1
     * Changing alignment                                      0.2.2
