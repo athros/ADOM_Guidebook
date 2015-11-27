@@ -30,10 +30,10 @@
     * [Rearranging stats](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#062-rearranging-stats)
       * [Potions of exchange](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0621-potions-of-exchange)
       * [Potions of balance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.6.md#0622-potions-of-balance)
-  * Weapon skills                                               0.7
-    * Jack of all trades or master of one?                    0.7.1
-    * Class considerations - what weapon to specialize in     0.7.2
-    * Achieving Grand Mastery                                 0.7.3
+  * [Weapon skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#07-weapon-skills)
+    * [Jack of all trades or master of one?](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#071-jack-of-all-trades-or-master-of-one)
+    * [Class considerations - what weapon to specialize in](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#072-class-considerations---what-weapon-to-specialize-in)
+    * [Achieving Grand Mastery](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#073-achieving-grand-mastery)
   * Armor considerations                                        0.8
     * DV versus PV                                            0.8.1
   * Killing monsters                                            0.9
