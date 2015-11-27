@@ -11,3 +11,5 @@
 4. Chapter 0.10 - link sections in text
   * Line 141 - Appendix J
   * Line 195 - Appendix J
+5. Chapter 0.11 - link sections in text
+  * Line 25 - section 3.6
