@@ -82,31 +82,31 @@
     * [Teleportitis and teleport control](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0125-teleportitis-and-teleport-control)
     * [Special birth messages](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0126-special-birth-messages)
     * [Water breathing](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0127-water-breathing)
-  * Dungeon features                                            0.13
-    * Level messages                                          0.13.1
-    * Traps                                                   0.13.2
-    * Doors                                                   0.13.3
-      * Locked doors                                        0.13.3.1
-      * Door traps                                          0.13.3.2
-      * Secret doors                                        0.13.3.3
-    * Dark rooms                                              0.13.4
-    * Tension rooms                                           0.13.5
-    * Herbs                                                   0.13.6
-    * Shops                                                   0.13.7
-    * Rivers                                                  0.13.8
-    * Pools                                                   0.13.9
-    * Forges                                                  0.13.10
-    * Hives                                                   0.13.11
-      * Ants                                                0.13.11.1
-      * Bees                                                0.13.11.2
-    * Special rooms and their effects                         0.13.12
-      * Permanent effects                                   0.13.12.1
-      * One time effects                                    0.13.12.2
-    * Vaults                                                  0.13.13
-      * Lesser vaults                                       0.13.13.1
-      * Greater vaults                                      0.13.13.2
-    * Royal treasuries                                        0.13.14
-    * Danger levels and top trap types                        0.13.15
+  * [Dungeon features](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013-dungeon-features)
+    * [Level messages](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0131-level-messages-special-messages)
+    * [Traps](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0132-traps)
+    * [Doors](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0133-doors)
+      * [Locked doors](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01331-locked-doors)
+      * [Door traps](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01332-door-traps)
+      * [Secret doors](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01333-secret-doors)
+    * [Dark rooms](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0134-dark-rooms)
+    * [Tension rooms](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0135-tension-rooms-threatening-rooms)
+    * [Herbs](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0136-herbs)
+    * [Shops](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0137-shops)
+    * [Rivers](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0138-rivers)
+    * [Pools](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#0139-pools)
+    * [Forges](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01310-forges)
+    * [Hives](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01311-hives)
+      * [Ants](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013111-ants)
+      * [Bees](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013112-bees)
+    * [Special rooms and their effects](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01312-special-rooms-and-their-effects)
+      * [Permanent effects](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013121-permanent-effects)
+      * [One time effects](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013122-one-time-effects)
+    * [Vaults](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01313-vaults)
+      * [Lesser vaults](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013131-lesser-vaults)
+      * [Greater vaults](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013132-greater-vaults)
+    * [Royal treasuries](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01314-royal-treasuries)
+    * [Danger levels and top trap types](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01315-danger-levels-and-top-trap-types)
   * Tips & tricks                                               0.14
     * Recharging wands                                        0.14.1
     * Huge rocks and anvils                                   0.14.2
