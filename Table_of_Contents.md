@@ -61,12 +61,12 @@
     * [From corpses](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01028-from-corpses)
     * [Riurry - the greater black unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01029-riurry---the-greater-black-unicorn-quest)
     * [Being crowned a champion of chaos](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010210-being-crowned-a-champion-of-chaos)
-  * [Removing corruptions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#0103-removing-corruptions)
-    * [Potions of cure corruption](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01031-potions-of-cure-corruption)
-      * [Obtaining potions of cure corruption from Guth'Alak](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010311-obtaining-potions-of-cure-corruption-from-guthalak)
-    * [Scrolls of chaos resistance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01032-scrolls-of-chaos-resistance)
-    * [Tracts of order](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01033-tracts-of-order)
-    * [Yrruir - the greater white unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01034-yrruir---the-greater-white-unicorn-quest)
+    * [Removing corruptions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#0103-removing-corruptions)
+      * [Potions of cure corruption](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01031-potions-of-cure-corruption)
+        * [Obtaining potions of cure corruption from Guth'Alak](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010311-obtaining-potions-of-cure-corruption-from-guthalak)
+      * [Scrolls of chaos resistance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01032-scrolls-of-chaos-resistance)
+      * [Tracts of order](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01033-tracts-of-order)
+      * [Yrruir - the greater white unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01034-yrruir---the-greater-white-unicorn-quest)
   * Companions and slaves                                       0.11
     * Companions                                              0.11.1
       * Scrolls of familiar summoning                       0.11.1.1
