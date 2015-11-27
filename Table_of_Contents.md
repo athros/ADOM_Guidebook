@@ -14,10 +14,10 @@
     * [Possible crowning gifts for each class](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#0251-possible-crowning-gifts-for-each-class)
     * [Piety loss](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#026-piety-loss)
   * [Food - preventing starvation](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.3.md#03-food---preventing-starvation)
-  * Skills - description and usefulness                         0.4
-    * Guaranteed ways of acquiring skills                     0.4.1
-    * Non-guaranteed ways of acquiring skills                 0.4.2
-    * Training skills                                         0.4.3
+  * [Skills - description and usefulness](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#04-skills---description-and-usefulness)
+    * (Guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#041-guaranteed-ways-of-acquiring-skills)
+    * [Non-guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#042-non-guaranteed-ways-of-acquiring-skills)
+    * [Training skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#043-training-skills)
   * Spells and Mindcraft                                        0.5
   * Stats                                                       0.6
     * Increasing stats                                        0.6.1
