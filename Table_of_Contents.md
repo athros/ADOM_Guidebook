@@ -74,14 +74,14 @@
       * [Taming monsters](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01113-taming-monsters)
       * [Hawkslayer](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01114-hawkslayer)
     * [Slaves](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#0112-slaves)
-  * Intrinsics                                                  0.12
-    * Resistance                                              0.12.1
-    * Immunity                                                0.12.2
-    * Dooming and cursing                                     0.12.3
-    * Lucky and Fate Smiles                                   0.12.4
-    * Teleportitis and teleport control                       0.12.5
-    * Special birth messages                                  0.12.6
-    * Water breathing                                         0.12.7
+  * [Intrinsics](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#012-intrinsics)
+    * [Resistance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0121-resistance)
+    * [Immunity](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0122-immunity)
+    * [Dooming and cursing](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0123-dooming-and-cursing)
+    * [Lucky and Fate Smiles](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0124-lucky-and-fate-smiles)
+    * [Teleportitis and teleport control](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0125-teleportitis-and-teleport-control)
+    * [Special birth messages](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0126-special-birth-messages)
+    * [Water breathing](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.12.md#0127-water-breathing)
   * Dungeon features                                            0.13
     * Level messages                                          0.13.1
     * Traps                                                   0.13.2
