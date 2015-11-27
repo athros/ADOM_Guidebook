@@ -18,7 +18,7 @@
     * [Guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#041-guaranteed-ways-of-acquiring-skills)
     * [Non-guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#042-non-guaranteed-ways-of-acquiring-skills)
     * [Training skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#043-training-skills)
-  * Spells and Mindcraft                                        0.5
+  * [Spells and Mindcraft](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.5.md#05-spells-and-mindcraft)
   * Stats                                                       0.6
     * Increasing stats                                        0.6.1
       * Exercising stats naturally                          0.6.1.1
