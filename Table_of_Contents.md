@@ -45,28 +45,28 @@
     * [Karmic beings](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#093-karmic-beings)
     * [Particularly annoying monsters - strategies](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#094-strategies-for-dealing-with-particularly-annoying-monsters)
     * [Weapon status - blessed, uncursed, cursed](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#095-weapon-status---blessed-uncursed-cursed)
-  * Corruption                                                  0.10
-    * What is corruption?                                     0.10.1
-    * Gaining corruptions                                     0.10.2
-      * Background corruption                               0.10.2.1
-      * Corruption traps                                    0.10.2.2
-      * Corrupting hits from monsters                       0.10.2.3
-      * Artifacts which corrupt                             0.10.2.4
-        * Moon Sickle                                     0.10.2.4.1
-        * When carried                                    0.10.2.4.2
-        * When used                                       0.10.2.4.3
-    * Potions of raw chaos                                0.10.2.5
-    * Tracts of chaos                                     0.10.2.6
-    * From pools                                          0.10.2.7
-    * From corpses                                        0.10.2.8
-    * Riurry - the greater black unicorn quest            0.10.2.9
-    * Being crowned a champion of chaos                   0.10.2.10
-  * Removing corruptions                                    0.10.3
-    * Potions of cure corruption                          0.10.3.1
-      * Obtaining potions of cure corruption from Guth'Alak 0.10.3.1.1
-    * Scrolls of chaos resistance                         0.10.3.2
-    * Tracts of order                                     0.10.3.3
-    * Yrruir - the greater white unicorn quest            0.10.3.4
+  * [Corruption](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010-corruption)
+    * [What is corruption?](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#0101-what-is-corruption) 
+    * [Gaining corruptions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#0102-gaining-corruptions) 
+      * [Background corruption](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01021-background-corruption)
+      * [Corruption traps](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01022-corruption-traps)
+      * [Corrupting hits from monsters](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01023-corrupting-hits-from-monsters)
+      * [Artifacts which corrupt](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01024-artifacts-which-corrupt)
+        * [Moon Sickle](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010241-moon-sickle)
+        * [When carried](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010242-when-carried)
+        * [When used](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010243-when-used)
+    * [Potions of raw chaos](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01025-potions-of-raw-chaos)
+    * [Tracts of chaos](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01026-tracts-of-chaos)
+    * [From pools](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01027-from-pools)
+    * [From corpses](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01028-from-corpses)
+    * [Riurry - the greater black unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01029-riurry---the-greater-black-unicorn-quest)
+    * [Being crowned a champion of chaos](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010210-being-crowned-a-champion-of-chaos)
+  * [Removing corruptions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#0103-removing-corruptions)
+    * [Potions of cure corruption](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01031-potions-of-cure-corruption)
+      * [Obtaining potions of cure corruption from Guth'Alak](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#010311-obtaining-potions-of-cure-corruption-from-guthalak)
+    * [Scrolls of chaos resistance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01032-scrolls-of-chaos-resistance)
+    * [Tracts of order](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01033-tracts-of-order)
+    * [Yrruir - the greater white unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01034-yrruir---the-greater-white-unicorn-quest)
   * Companions and slaves                                       0.11
     * Companions                                              0.11.1
       * Scrolls of familiar summoning                       0.11.1.1
