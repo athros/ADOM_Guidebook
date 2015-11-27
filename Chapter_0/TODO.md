@@ -15,3 +15,10 @@
   * Line 25 - section 3.6
 6. Chapter 0.12
   * Line 25 - section 2.19
+7. Chapter 0.13
+  * Line 174 - section 2.9
+  * Line 426
+    * 1.2.1.2
+    * 1.2.1.3
+    * 1.2.2.1
+    * 1.2.2.2
