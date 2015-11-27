@@ -13,7 +13,7 @@
     * [Crowning, precrowning and postcrowning](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#025-crowning-precrowning-and-postcrowning)
     * [Possible crowning gifts for each class](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#0251-possible-crowning-gifts-for-each-class)
     * [Piety loss](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#026-piety-loss)
-  * Food - preventing starvation                                0.3
+  * [Food - preventing starvation](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.3.md#03-food---preventing-starvation)
   * Skills - description and usefulness                         0.4
     * Guaranteed ways of acquiring skills                     0.4.1
     * Non-guaranteed ways of acquiring skills                 0.4.2
