@@ -34,8 +34,8 @@
     * [Jack of all trades or master of one?](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#071-jack-of-all-trades-or-master-of-one)
     * [Class considerations - what weapon to specialize in](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#072-class-considerations---what-weapon-to-specialize-in)
     * [Achieving Grand Mastery](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#073-achieving-grand-mastery)
-  * Armor considerations                                        0.8
-    * DV versus PV                                            0.8.1
+  * [Armor considerations](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.8.md#08-armor-considerations)
+    * [DV versus PV](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.8.md#081-dv-versus-pv)
   * Killing monsters                                            0.9
     * The significance of the first kill                      0.9.1
       * The Courage skill                                   0.9.1.1
