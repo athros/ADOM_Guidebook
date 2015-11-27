@@ -8,3 +8,6 @@
 3. Chapter 0.6 - link sections in text
   * Line 47  - section 2.5.5
   * Line 69 - Appendix J
+4. Chapter 0.10 - link sections in text
+  * Line 141 - Appendix J
+  * Line 195 - Appendix J
