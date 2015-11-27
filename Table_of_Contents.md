@@ -67,13 +67,13 @@
       * [Scrolls of chaos resistance](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01032-scrolls-of-chaos-resistance)
       * [Tracts of order](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01033-tracts-of-order)
       * [Yrruir - the greater white unicorn quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.10.md#01034-yrruir---the-greater-white-unicorn-quest)
-  * Companions and slaves                                       0.11
-    * Companions                                              0.11.1
-      * Scrolls of familiar summoning                       0.11.1.1
-      * Figurines of wondrous power                         0.11.1.2
-      * Taming monsters                                     0.11.1.3
-      * Hawkslayer                                          0.11.1.4
-    * Slaves                                                  0.11.2
+  * [Companions and slaves](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#011-companions-and-slaves)
+    * [Companions](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#0111-companions)
+      * [Scrolls of familiar summoning](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01111-scrolls-of-familiar-summoning)
+      * [Figurines of wondrous power](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01112-figurines-of-wondrous-power)
+      * [Taming monsters](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01113-taming-monsters)
+      * [Hawkslayer](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#01114-hawkslayer)
+    * [Slaves](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.11.md#0112-slaves)
   * Intrinsics                                                  0.12
     * Resistance                                              0.12.1
     * Immunity                                                0.12.2
