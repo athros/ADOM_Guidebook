@@ -36,14 +36,15 @@
     * [Achieving Grand Mastery](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.7.md#073-achieving-grand-mastery)
   * [Armor considerations](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.8.md#08-armor-considerations)
     * [DV versus PV](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.8.md#081-dv-versus-pv)
-  * Killing monsters                                            0.9
-    * The significance of the first kill                      0.9.1
-      * The Courage skill                                   0.9.1.1
-      * The Filk quest                                      0.9.1.2
-      * Strategy for the first kill: where and what?        0.9.1.3
-    * Cats - the significance of felines                      0.9.2
-    * Karmic beings                                           0.9.3
-    * Particularly annoying monsters - strategies             0.9.4
+  * [Killing monsters](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#09-killing-monsters)
+    * [The significance of the first kill](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#091-the-significance-of-the-first-kill)
+      * [The Courage skill](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#0911-the-courage-skill)
+      * [The Filk quest](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#0912-the-filk-quest)
+      * [Strategy for the first kill: where and what?](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#0913-strategy-for-the-first-kill-where-and-what)
+    * [Cats - the significance of felines](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#092-cats---the-significance-of-felines)
+    * [Karmic beings](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#093-karmic-beings)
+    * [Particularly annoying monsters - strategies](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#094-strategies-for-dealing-with-particularly-annoying-monsters)
+    * [Weapon status - blessed, uncursed, cursed](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.9.md#095-weapon-status---blessed-uncursed-cursed)
   * Corruption                                                  0.10
     * What is corruption?                                     0.10.1
     * Gaining corruptions                                     0.10.2
