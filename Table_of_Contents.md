@@ -15,7 +15,7 @@
     * [Piety loss](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#026-piety-loss)
   * [Food - preventing starvation](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.3.md#03-food---preventing-starvation)
   * [Skills - description and usefulness](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#04-skills---description-and-usefulness)
-    * (Guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#041-guaranteed-ways-of-acquiring-skills)
+    * [Guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#041-guaranteed-ways-of-acquiring-skills)
     * [Non-guaranteed ways of acquiring skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#042-non-guaranteed-ways-of-acquiring-skills)
     * [Training skills](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.4.md#043-training-skills)
   * Spells and Mindcraft                                        0.5
