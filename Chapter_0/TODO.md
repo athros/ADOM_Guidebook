@@ -13,3 +13,5 @@
   * Line 195 - Appendix J
 5. Chapter 0.11 - link sections in text
   * Line 25 - section 3.6
+6. Chapter 0.12
+  * Line 25 - section 2.19
