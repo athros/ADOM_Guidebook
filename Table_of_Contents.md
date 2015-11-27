@@ -5,14 +5,14 @@
     * [Special considerations](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#013-special-considerations)
     * [Race-specific starting items](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#014-race-specific-starting-items)
     * [Class-specific starting items](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.1.md#015-class-specific-starting-items)
-  * Alignment and Altars                                        0.2
-    * What is alignment?                                      0.2.1
-    * Changing alignment                                      0.2.2
-    * Altars - How to use altars.                             0.2.3
-    * How to recover from errors.                             0.2.4
-    * Crowning, precrowning and postcrowning                  0.2.5
-    * Possible crowning gifts for each class              0.2.5.1
-    * Piety loss                                              0.2.6
+  * [Alignment and Altars](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#02-alignment-and-altars)
+    * [What is alignment?](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#021-what-is-alignment)
+    * [Changing alignment](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#022-changing-alignment)
+    * [Altars - How to use altars](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#023-altars---how-to-use-altars)
+    * [How to recover from errors](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#024-recovering-from-errors)
+    * [Crowning, precrowning and postcrowning](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#025-crowning-precrowning-and-postcrowning)
+    * [Possible crowning gifts for each class](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#0251-possible-crowning-gifts-for-each-class)
+    * [Piety loss](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.2.md#026-piety-loss)
   * Food - preventing starvation                                0.3
   * Skills - description and usefulness                         0.4
     * Guaranteed ways of acquiring skills                     0.4.1
