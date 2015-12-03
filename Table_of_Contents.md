@@ -107,24 +107,24 @@
       * [Greater vaults](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#013132-greater-vaults)
     * [Royal treasuries](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01314-royal-treasuries)
     * [Danger levels and top trap types](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.13.md#01315-danger-levels-and-top-trap-types)
-  * Tips & tricks                                               0.14
-    * Recharging wands                                        0.14.1
-    * Huge rocks and anvils                                   0.14.2
-    * Statues                                                 0.14.3
-    * Potions of raw chaos                                    0.14.4
-    * Potions of exchange                                     0.14.5
-    * Regeneration of HP and PP: potions of troll blood and raw mana                    0.14.6
-    * Freezing water                                          0.14.7
-    * Safe places to store items                              0.14.8
-    * Seven league boots                                      0.14.9
-    * Stethoscopes                                            0.14.10
-    * Undocumented character abilities                        0.14.11
-    * The weight and appearance of objects            0.14.12
-    * Fortune cookies, rumors and the babblings of Yggaz  0.14.13
-    * Day and date effects                    0.14.14
-    * The opening question system                             0.14.15
-    * Talents                                                 0.14.16
-    * The final score                                         0.14.17
+  * [Tips & tricks](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#014-tips-and-tricks)
+    * [Recharging wands](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0141-recharging-wands)
+    * [Huge rocks and anvils](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0142-huge-rocks-and-anvils)
+    * [Statues](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0143-statues)
+    * [Potions of raw chaos](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0144-potions-of-raw-chaos)
+    * [Potions of exchange](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0145-potions-of-exchange)
+    * [Regeneration of HP and PP: potions of troll blood and raw mana](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0146-regeneration-of-hp-and-pp-potions-of-troll-blood-and-raw-mana)
+    * [Freezing water](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0147-freezing-water)
+    * [Safe places to store items](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0148-safe-places-to-store-items)
+    * [Seven league boots](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#0149-seven-league-boots)
+    * [Stethoscopes](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01410-stethoscopes)
+    * [Undocumented character abilities](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01411-undocumented-character-abilities)
+    * [The weight and appearance of objects](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01412-the-weight-and-appearance-of-objects)
+    * [Fortune cookies, rumors and the babblings of Yggaz](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01413-fortune-cookies-rumors-and-the-babblings-of-yggaz)
+    * [Day and date effects](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01414-day-and-date-effects)
+    * [The opening question system](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01415-the-opening-question-system)
+    * [Talents](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01416-talents)
+    * [The final score](https://github.com/athros/ADOM_Guidebook/blob/master/Chapter_0/0.14.md#01417-the-final-score)
 
 * # EARLY GAME STRATEGIES                                           1
   * What kind of character is good for each starsign?           1.1
