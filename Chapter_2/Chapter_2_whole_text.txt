@@ -1,0 +1,2650 @@
+2.                        MID-GAME STRATEGIES
+
+
+2.1 The early levels of the Caverns of Chaos (CoC)
+
+The early levels of the CoC should not be a problem for PCs that manage to make it this 
+far. They are comparable in difficulty to the Village Dungeon or the Unremarkable Dungeon. 
+It is never wise to become overconfident, however. Even these levels may contain lesser 
+vaults, tension rooms and named artifact guardians. There may be a split in the early 
+dungeon levels of the CoC. Two down staircases may be available. This is by no means 
+guaranteed.
+
+When two down staircases are found on D: n (n=1, 2 or 3), the level D: n+1 has a roughly 
+50% chance of containing a lesser vault. The level S: n+1 will never contain a vault. 
+This suggests the S level may stand for 'S'afe or 'S'hortcut.
+
+The main objective in the early part of the CoC is to find the Arena. More about the 
+Arena level is found in section 2.2.
+
+
+2.2 The Arena
+
+The Arena level is found around D: 4. As might be expected at a huge attraction like the 
+Arena, there are vendors selling items on this level.  The other guaranteed monster 
+on the level is the Arena Master, who provides access to the Arena.  Note that he will 
+not admit invisible PCs to the Arena, whether or not they have fought in the Arena 
+before. He responds with "Sorry, we've hired more than enough invisible stalkers. Look 
+for a job elsewhere or come back when some of yer pals are used up."
+
+The Arena itself is for combat practice, with the rewards for a successful fight being 
+gold pieces. The rewards get larger as the PC wins more fights. A PC should not fight 
+more than nineteen times in the Arena before descending to deeper levels of the CoC. This 
+is because he will encounter an NPC later who assigns a quest to win the 20th Arena fight. 
+The 20th fight will be against a named former champion. These opponents are more difficult 
+than the standard Arena opponents. There are four possibilities:
+
+Li-Hon-Kay: ogre magus, uses invisibility and Frost Bolt, alternate name Li-Han-Kay
+Spardakius: minotaur, brute force
+Ripclaw: troll, brute force
+Bonk: hill giant, brute force
+
+Li-Hon-Kay can be particularly annoying and dangerous. PCs without cold resistance and the 
+ability to see invisible will probably not survive a fight with Li-Hon-Kay. Fortunately, 
+cold immunity and the ability to see invisible are granted by the Ancient Mummy Wrapping, 
+an artifact armor held by Rehetep, the Mummy Lord (see section 2.9). Players who want to 
+be conservative and maximize the chances of survival in the 20th Arena fight will tackle 
+the Pyramid first. Note also that although ogre magi are somewhat resistant to confusion, 
+if one is successfully confused using Mindcraft, they are unable to become invisible. This 
+works for Li-Hon-Kay as well as ordinary ogre magi. The other 20th fight Arena opponents 
+will fall to offensive magic or simple brute force bashing.
+
+There are a limited number of fights available after the 20th fight, but beware: anything 
+can be generated as an opponent in such fights. It is quite possible to be faced with an 
+emperor lich or ancient karmic dragon. The monetary rewards for such fights are about 1000 
+gold pieces each, not worth it if the PC has to face a difficult opponent.
+
+Timofei Shatrov has determined the possible opponents the PC will face in the Arena.  There 
+are five possible opponents in each fight, although some of them are duplicates.  The table 
+below shows the possible opponents, with cats in capitals and duplicates in parentheses:
+
+POSSIBLE ARENA MONSTERS:
+
+ 1 - giant rat      kobold           rat            goblin        (giant rat)
+ 2 - giant rat      kobold           orc            goblin        (giant rat)
+ 3 - gnoll	    hobgoblin	     orc            rabid dog     (hobgoblin)
+ 4 - gnoll          orc scorcher     hobgoblin      skeleton      zombie		
+ 5 - gnoll          orc scorcher     lizard man     fire beetle   giant bat
+ 6 - ghul           black hurthling  WILD CAT       wolf          giant bat
+ 7 - ghul           black hurthling  hyena          large kobold  jackal
+ 8 - ghul           orc scorcher     large gnoll    large kobold  bugbear
+ 9 - ogre           large orc        large gnoll    shadow        wererat
+10 - ogre           large orc        kobold chief   shadow        werewolf
+11 - large spider   cave fisher      orc chieftain  ankheg        gnoll chief 
+12 - kobold shaman  dwarf            orc chieftain  ankheg        giant spider
+13 - kobold shaman  dwarf            orc chieftain  ankheg        giant spider
+14 - imp            displacer beast  orc chieftain  quasit        CAVE LION
+15 - cave bear      displacer beast  minotaur       hippogriff    jackalwere
+16 - cave bear      displacer beast  minotaur       hippogriff    jackalwere
+17 - cave bear      dire wolf        minotaur       harpy         giant lizard
+18 - cave bear      dark sage        tarantula      fire lizard   hell hound 
+19 - cave bear      dark sage        tarantula      fire lizard   dark elven warrior
+
+
+2.2.1 Ratling traders
+
+There are several ratling traders on the Arena level who sell food. The best food source 
+is cooked lizards, which weigh only 3 stones each and are very nutritious. Also available 
+are fried bats, which are less nutritious but still acceptable. It is not worth buying rat 
+tails or cooked roaches. They have a negative nutrition value, even for trolls, who can 
+eat almost anything.
+
+In contrast to shops, which restock dependent on total game time passed, the ratling 
+traders seem to restock dependent on game passed on the Arena level only. Thus a PC may go 
+off adventuring for many days, return to the Arena and find no new food available. Wait or 
+run around on the level for a while and the traders should eventually restock.
+
+It is worthwhile to 'n'ame the ratling traders according to the wares they sell. This 
+prevents aimless searching for the traders who sell worthwhile food. They can also be 
+slowed down with the Slow Monster spell, which will not turn them hostile.
+
+
+2.2.2 Cats in the Arena
+
+Cats in the Arena are a special problem.  If the PC wants the Ring of the Master Cat, 
+directly killing cats must be avoided (see section 0.9.2).  There are several ways to deal 
+with cats in the Arena.  Teleportation is one, from a wand or spell.  Potions of exchange 
+thrown at a cat will turn it into another monster.  A cat can be led over a trap until it 
+is killed, teleported or turned into a writhing mass of primal chaos.  However, if the PC 
+creates or sets off a trap which kills a cat, he is charged with killing the cat. Thus 
+teleportation and corruption traps are really the only useful traps worth creating as far 
+as cats are concerned. Indeed, the PC should be careful about creating *any* traps in the 
+Arena, since a subsequently generated cat could be killed by the trap (even after the 20th 
+fight). For this reason, as well as general tactical information, it is useful to know the 
+layout of traps in the Arena when they are created.  A map showing the traps produced when 
+the Arena is generated on D: 3 is shown below:
+
+  ###############.###############
+  #0123456789AB0###456789AB01234#
+  #123456789AB0123456789AB012345#
+  #23456789AB0123456789AB0123456#
+  #3456789AB0123456789AB01234567#
+  ###############################
+
+    0 - fireball      6 - arrow
+    1 - pit           7 - acid
+    2 - light         8 - pit (vipers)
+    3 - corruption    9 - spear
+    4 - stone block   A - teleport
+    5 - alarm         B - water
+
+The pattern shifts, but otherwise remains the same, and can therefore be worked out by 
+creating a single trap, when the Arena is generated on other levels.
+
+
+2.3 The Big Room
+
+The Big Room is found on level six or seven of the CoC.  It is indeed one big room with 
+no walls.  This means it is not possible to use corridors to restrict monster movement.  
+If there are many monsters present they can always swarm the PC.  Breeders and summoners 
+are thus very dangerous on this level.  If the PC does not have poison resistance this 
+level is exceptionally dangerous since dark elven wizards and dark elven priestesses who 
+summon poisonous spiders are guaranteed to appear sooner or later.  Breeders can get 
+completely out of control on this level.  Even if they can't really hurt the PC, once a 
+high enough number breed and *continue* to breed the PC can't kill them as fast as they 
+are being generated.  Being trapped like this will lead to starvation eventually.  
+Remember that breeders can be sterilized by a scroll of vermin control or divine 
+intervention.
+
+Herbs are guaranteed in the Big Room which leads to the dilemma of whether to stay and 
+harvest herbs or flee from the constant onslaught of monsters.
+
+Petri Sihvola has discovered a way around this dilemma. 
+His post from RGRA: 
+
+
+> With a bit of planning and minimal amount of equipment, it's possible
+> to fight monster generation, to the point that no new monsters appear
+> on the level for the rest of the game, letting you harvest your herbs
+> in peace.
+
+> In order to achieve the desired effect, using this particular
+> solution, in this particular level, one needs...
+
+> * a breeder.
+
+> * 14 doors, forming an enclosed area of 8*5 or 7*6 squares, or 1-13
+> doors and a method of digging, enclosing an area of at least 40
+> squares total.
+
+> The first thing to do is to find a breeder and leave it somewhere,
+> until you have the necessary equipment. For those who like to do
+> things the alternative way, and are in a position to do so before
+> finding a naturally generated breeder from a nearby CoC level (or the
+> Big Room itself), find/create a corruption trap and lure a regular rat
+> over it... to generate a chaos rat... which is a breeder.
+
+> I'll provide two examples on how to proceed from here, depending on
+> the amount of doors you're planning to invest in this.
+
+> Example 1 (14 doors, no digging):
+
+> Choose a corner that would disturb your herb patterns the least, and
+> create the doors, like this:
+
+> #..........
+> #+++++++...
+> #......+...
+> #......+...
+> #......+...
+> #......+...
+> #......+...
+> #......+...
+> #......+...
+> ###########
+
+> Now, get the breeder from wherever you left it, and lure it inside the
+> box. Close the doors, so that the breeder won't escape and wait
+> outside. Protect the doors from random passers-by and observe the
+> occasional popping/burping sounds.
+
+> Once the amount of breeders reaches 40, all monster generation in the
+> level stops. Start to wander further from the box and kill the
+> remaining monsters from the level.
+
+> Example 2 (1 door, some digging):
+
+> At first, it would seem that the big room has no walls to dig, but
+> upon further investigation this appears to not be the case. You can
+> dig one square left, one square up, three squares right and two
+> squares down, into the wall. This leaves the lower right corner as the
+> obvious choice to start digging, and the two-square wide corridor in
+> the right side allows for getting around the initial breeder without
+> needing a second exit. Enclose a 40-square area...
+
+>    ####
+> ####..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ...#..#
+> ..+#..#
+> ###...#
+> #.....#
+> #######
+
+> ...get the breeder inside and apply the same method as in the first
+> example.
+
+> If everything went well, you're now looking at a completely peaceful,
+> guaranteed herb level, which is guaranteed to be in a non-corrupting
+> zone.
+
+
+2.4 The Si
+
+The si (abbreviation for strange item, pronounced "see") is the first guaranteed 
+artifact that most PCs will encounter, unless they have done the Keethrax quest.  
+It is usually found on level 8 of the CoC.  The level message "The air of this 
+level is filled with a strange smell." is always generated when entering the level 
+containing the si.  It falls into the tool category and is thus represented by a ] 
+character.  It always lies on a trap, so kick it off of the trap before picking it 
+up if possible.
+
+The si is an artifact that replicates.  Since they are artifacts, they are: 
+
+1) indestructible - wield them as a melee weapon to prevent corrosion/damage from 
+                    jellies if nothing better is available
+2) valuable - sell them to shopkeepers: potentially limitless cash
+3) sacrificial fodder - sacrifice them to the gods, although it may be more 
+                        beneficial to sell them and sacrifice the gold
+
+All of these properties together make sis rather nice items.  Always keep at least 
+one.
+
+Note that sis do not count as an artifact as far as the demented ratling is 
+concerned.  Also never forget that they replicate.  They can get heavy after a 
+while.  A particularly nasty effect results if sis are brought into the ID.  
+On a long trip through the ID, sis will replicate to the point where they become 
+annoyingly heavy.  This would not be a problem if the PC could simply drop most of 
+them.  Unfortunately, they jump back into the PC's backpack before he leaves a 
+level, no matter where on the level they were dropped.  Bottom line: *never* bring 
+sis into the ID.
+
+
+2.5 Dwarftown
+
+Dwarftown is an important milestone in the game. It is a source of numerous helpful NPCs 
+and locations, including a shop, a smithy, a coaligned altar (for non-chaotics) and a 
+training hall where stats may be increased. Of equal importance is the fact that it is a 
+resting place. After the descent through the upper CoC, the PC can rest here without 
+constantly being assaulted by monsters. There is nothing hostile in Dwarftown initially, 
+with the exception of an almost-guaranteed mimic in Waldenbrook's shop (note the empty 
+space in the shop in the map below - it is a mimic).
+
+A map of Dwarftown:
+
+
+      #######################################################################
+      #.....................................................................#
+    ###########......................##########.............................###
+    #..#(*?[((#.Waldenbrook's........#........#..........#######..............#
+  ###..#!("[."#....shop......#####...#.Garth's#..........#.....#..............###
+  #....#%[?/*]#..............#..!#.../Training#..........#...../.Glod's.........#
+ ##....#%!%%['#..............#...#...#..Hall..#..........#..&..#.smithy.........#
+ #.....#%!%\\*#..............#...#...#........#..........#.....#................#
+ #.....##/#####..............###/#...##########..........#.....#................#
+ #.......................Thrundarr's.....................#######................#
+ #...<......................room.............................................>..#
+ #..............................................................................#
+ #........###/###.......####........................######/##...................#
+ ##.Altar.#.....#.......#..#.Dwarven................#.......#...................#
+  #..room.#.....#.......#..#.Mystic's...............#.Green.#...................#
+  ###.....#.._..#.......####..Room..................#Griffon#.................###
+    #.....#.....#...........................>.......#..Inn..#.................#
+    ###...#######....................Stairway.to....#########...............###
+      #...............................Ogre.cave.............................#
+      #######################################################################
+
+
+2.5.1 Waldenbrook
+
+Waldenbrook is the shopkeeper in Dwarftown.  His is a general store type of shop selling 
+and buying a variety of goods.  He occasionally stocks an item or two of high quality, 
+sometimes even an artifact.  His prices are generally reasonable.  Bear in mind, however, 
+that he has the same racial prejudices as all other shopkeepers (see section 0.13.7).
+
+
+2.5.2 Ruun
+
+Ruun, the Priest in Dwarftown is always generated with the same race as the PC.  He 
+presides over a small room containing an altar, which will be coaligned unless the PC is 
+chaotic.  If a coaligned PC is carrying unidentified potions, it is worth 'C'hatting with 
+him.  He will identify potions that have a healing effect: potions of (extra/ultra) 
+healing and potions of cure poison.  If a PC whose alignment does not match the altar's 
+'C'hats with him he responds with "Ye oughta convert.  Then we'll talk."
+
+Note that converting the altar in Dwarftown (perhaps even attempting to convert it) will 
+cause Ruun to become hostile, which in turn causes the entire town to become hostile.  
+Luring him out of Dwarftown, killing him and then returning will not work either, as his 
+shade returns to inform the dwarves of what has happened, resulting in the same scenario.  
+Unless your PC knows exactly what he is doing and why he is doing it, angering or attacking 
+Ruun is highly inadvisable.  See also section 2.5.8 below about the Demented Ratling 
+and causing commotion in Dwarftown.
+
+
+2.5.3 Thrundarr
+
+Thrundarr is the village elder. He can provide background information on a variety of 
+subjects, none of which is really crucial to completing the game. He assigns six lawful 
+quests regardless of alignment. They are listed in the next section.
+
+2.5.3.1 Thrundarr's quests, their rewards and the significance of the rewards
+
+Several quests are available from Thrundarr once the PC achieves experience level six.  
+Talking to Thrundarr about 'quest' provides access to them:
+
+The first five quests are available in this order:
+
+
+1) Slay a random creature.  This can be a very annoying quest.  Thrundarr can assign 
+   anything ranging from a goblin to a Ghost Lord.  The reward is having the PC's entire 
+   inventory identified or the (artifact) potion of literacy for illiterate characters.
+
+2) Find out what is beyond the animated forest.  The PC has two choices here: traverse the 
+   animated forest or bypass it and descend through the Dwarven Halls.  See section 
+   2.5.3.1.1 below about these locations.  The reward for this quest is a blessed wand of 
+   fireballs with twelve charges.  This comes in very handy in the Pyramid (see section 
+   2.9).
+
+   WARNING:   
+
+   Be very careful when wandering around below Dwarftown before receiving this quest.  
+   Entering the Animated Forest for even a single turn before the quest is assigned 
+   results in Thrundarr refusing to assign it, instead assigning another random monster 
+   quest with *no reward*.  Since the wand of fireballs (blessed with twelve charges, no 
+   less) can be very useful, entering the Animated Forest before the quest is assigned is 
+   very unwise.  Note that this does not occur if the PC enters the Dwarven Halls.
+
+3) Kill the ogre tribe below Dwarftown - the staircase to this level is generated between 
+   the Dwarven Mystic's room and the Green Griffon Inn.  See section 2.5.3.1.2 below about 
+   this quest.  The reward is 5000 gold pieces, useful for training with Garth (see 
+   section 2.5.5).
+
+4) Become the Champion of the Arena - if the PC is already the Champion of the Arena, 
+   another random monster quest is assigned - a very good reason *not* to become the 
+   Champion until this quest is assigned.  Instead of a cash reward, the PC is given an 
+   artifact sword, the Golden Gladius, for winning the 20th Arena fight.  Thrundarr's 
+   rewards for this quest are usually pieces of equipment which vary according to the 
+   class of the PC and possibly the RNG.  A couple of examples:
+
+       A mindcrafter (probably) received:
+
+       blessed mithril cap [+0, +2]                         [40s]
+       blessed adamantium chain mail (-1, -3) [-1, +8]     [288s]
+       blessed mithril girdle [+0, +2]                      [20s]
+       blessed adamantium long sword (+0, 1d8+5)            [28s]
+       blessed medium mithril shield [+5, +1]               [80s]
+       blessed ring of fire resistance                       [1s]
+       blessed adamantium boots [+0, +3]                    [89s]
+
+       A wizard and a beastfighter both received:
+
+       heap of 8 blessed bandages                           [16s]
+       blessed waterproof blanket                           [10s]
+       blessed fireproof blanket                            [10s]
+       blessed ring of fire resistance                       [1s]
+       heap of 5 uncursed potions of extra healing          [10s]
+       uncursed potion of gain attributes                    [4s]
+       uncursed potion of ultra healing                      [2s]
+       blessed scroll of familiar summoning                  [2s]
+
+   The bandages, blankets, etc. seem to be the most common set of equipment received as a 
+   reward for this quest.
+
+   These are nice enough, but of no great consequence in the context of the whole game.  
+   Of greater importance is the fact that the PC now has the Golden Gladius.  It can be 
+   exchanged for training with Bart the grizzled gladiator.  See section 2.5.7.1 below.
+
+   It is also possible under some circumstances to receive the artifact dwarven shield 
+   "Rolf's Saviour" as a reward for this quest.  Lawful alignment is probably a 
+   requirement alomg with cooperation from the RNG.
+   
+5) Slay a greater daemon that has been terrorizing Dwarftown.  The daemon can be a 
+   difficult opponent, particularly if it becomes entangled with the dwarves in the city.  
+   Bear in mind the fact that the greater daemon can kill NPCs who may be helpful later.  
+   This includes the demented ratling, which destroys the possibility of any special ending.  
+   The greater daemon breathes fire and is a stat drainer.  It can be sacrificed on the 
+   altar in Dwarftown.  If the PC is lucky enough to have found demon slaying ammo, use 
+   it!  There will be more found later.  The reward for this quest is the artifact mace 
+   Big Punch, which many PCs find useless because it is so heavy - 800 stones.  It is 
+   potential sacrificial fodder.
+
+Thrundarr's sixth quest, available at any time and often taken out of order by many 
+players, is to free the spirit of Griff Bloodax, a dwarven hero who has been turned into 
+an undead dwarven chaos berserker by the master necromancer Nonnak. It is necessary to ask 
+him about 'portal' to obtain this quest. In return for completing this quest, Thrundarr 
+provides some equipment rewards (see section 2.7) and more importantly opens the dwarven 
+portal leading to the deeper CoC. Note that it is not strictly necessary to do this quest. 
+Thrundarr stands on a lever that controls the portal. If he is removed from that location, 
+the PC can 'h'andle the lever himself. Methods for accomplishing this include teleporting 
+Thrundarr, confusing him and killing him.
+
+Thrundarr is teleportation resistant, thus using charges from a wand of teleportation is 
+not recommended unless there is no alternative. A PC with the Teleportation spell has no 
+problem. Teleporting him causes no alignment drop; Thrundarr does not become hostile and 
+he will still assign quests. Killing him is a rather drastic act with all sorts of 
+negative consequences. Using ventriloquism on him is fairly easy, confuses him and causes 
+him to wander off the lever. It causes an alignment drop roughly equivalent to killing him 
+but does not curse or doom the PC nor are muscular dwarves summoned. It does make 
+Thrundarr hostile after he recovers from his confusion. This causes an amusing scenario as 
+the non-hostile dwarves encounter a hostile Thrundarr wandering around Dwarftown chasing 
+the PC.
+
+The PC should actually do the quest unless there is a very specific reason not to do so, 
+since there are very useful artifacts generated during the quest. See section 2.7 for more 
+about this quest.
+
+
+2.5.3.1.1 The animated forest and the Dwarven Halls
+
+Thrundarr asks the PC to pass through the Animated Forest and find out what lies beyond. 
+He also mentions a possibly dangerous shortcut which turn out to be the Dwarven Halls 
+DH: 1 and DH: 2. On approximately D: 15 there will be a level that has two down 
+staircases. One leads to the Animated Forest, the other to the Dwarven Halls. It is 
+impossible to tell them apart. 
+
+Passing through the Animated Forest is a test of one's patience among other things. The 
+entire level is filled with living trees milling about. The majority are not hostile but 
+will of course become hostile if attacked. It is difficult to get through them without 
+accidentally hitting one or more. When the PC encounters hostile trees it is best not to 
+try to fight them but rather keep moving. In fact it is usually best to be as defensive as 
+possible and forget about offense completely: wield two shields and use Coward tactics. 
+The hostile trees will usually be left behind in the crowd. It seems to be best to keep 
+moving in any case and refrain from resting on one square. Invisibility is a tremendous 
+asset in the Animated Forest, but PCs usually do not have it available at this stage of 
+the game. One thing to avoid entirely is any kind of fire magic in the forest. The whole 
+forest becomes hostile.
+
+The alternative to the tedium of the Animated Forest is a descent through the Dwarven 
+Halls. This is much faster but potentially dangerous. Very out-of-depth monsters can be 
+generated in the Dwarven Halls. If the PC has invisibility, seven league boots or anything 
+that increases speed, wear them before entering in case it becomes necessary to flee. 
+Exploring other than finding the down stairways is highly inadvisable.
+
+Both of these locations can be problematic. The Animated Forest is always incredibly 
+tedious. The Dwarven Halls can be a cakewalk if the PC is lucky enough to have the 
+stairways generated close together. They can also be a virtual instadeath if a very nasty 
+monster shows up. As Thrundarr says, "It's yer choice."
+
+
+2.5.3.1.2 The Ogre Cave
+
+There is an ogre tribe below Dwarftown which Thrundarr asks the PC to eliminate. This 
+quest is relatively easy compared to getting through the Animated Forest or Dwarven Halls. 
+The ordinary ogres have no special attacks and the PC should be able to bash them with 
+brute force combined with missile attacks or blast them with magic. Weaker races might 
+find a corpse or two that grants a strength increase. A potential problem is the ogre magi 
+present on the level. They are capable of becoming invisible and casting Frost Bolt. PCs 
+who have no cold resistance need to watch out for them. Wear an amulet of the cold heart 
+if the PC has one. There are also a couple of ogre lords present, which are tougher than 
+the ordinary ogres.
+
+
+2.5.4 The Dwarven Mystic
+
+The Dwarven Mystic is found in a 2 x 2 sealed room east of the room containing the altar. 
+The most common way to get in is by teleporting. The Dwarven Mystic used to be a 
+guaranteed source of the artifact dwarven rune axe Rolf's Companion for non-chaotics. In 
+g16p2 he may give lawfuls the axe. Neutrals never receive the axe but rather some 
+equipment which varies. It can be four scrolls of chaos resistance and/or seven blessed 
+potions of insight, potions of extra healing or other equipment. Several gammas ago, 
+Rolf's Companion was a very powerful artifact. In recent gammas, it has been weakened to 
+the point that many players regard the possibility of getting four scrolls of chaos 
+resistance from the Dwarven Mystic as an argument for neutral alignment at this point in 
+the game. Chaotics will receive nothing from him. He responds with the message "It wasn't 
+you I've been waiting for!"
+
+Note that teleportation traps may be conveniently generated adjacent to and within the 
+dwarven mystic's room. However, this is only possible if Dwarftown is generated on D: 11.:
+
+  .....^
+  .####.
+  .#.^#.
+  .#^.#.
+  .####.
+  ^.....
+
+The carets represent locations where a teleportation trap may be created.
+
+It is also possible to open the walls of the Dwarven Mystic's room with a wand of 
+destruction. This is somewhat dangerous, since nearby townspeople, and perhaps the 
+Dwarven Mystic himself, may be damaged by the blast, causing some, or all, inhabitants of 
+Dwarftown to become hostile. If the player is careful, it is possible to destroy the 
+walls, 'C'hat with the Dwarven Mystic and receive his rewards in the usual manner.
+
+If a PC with non-chaotic alignment has committed a crime in Dwarftown which results in an 
+alarm gong being rung and muscular dwarves being summoned, the Dwarven Mystic responds 
+with a different message "Ye art doomed!" This does not result in the PC gaining the 
+cursed or doomed intrinsics. A wished-for Dwarven Mystic also always responds with this 
+message.
+
+
+2.5.5 Garth and Training
+
+Garth is the dwarven weaponmaster found in the training hall east of Thrundarr's room. 
+Garth will train all stats except Appearance and Mana. The formula for how much to pay 
+is $100 * stat value, doubled once for each 5 points over 15. Here are examples of what 
+to pay Garth: 
+
+Stat score    Payment
+
+   1-15          100 -   1500gp (100x)
+  16-20         3200 -   4000gp (200x)
+  21-25         8400 -  10000gp (400x)
+  26-30        20800 -  24000gp (800x)
+  31-35        49600 -  56000gp (1600x)
+  36-40       115200 - 128000gp (3200x)
+  41-45       262400 - 288000gp (6400x)
+  46-50       588800 - 640000gp (12800x)
+
+Note that the effects of training do not happen instantaneously. The stat has simply been 
+trained. The game checks every so often (and always when gaining an experience level) to 
+see if a stat is eligible for an increase. This is when the stat will rise. Note also that 
+it is possible to pay Garth once and receive several stat increases as a result. This is 
+particularly useful for those PC's with a very low stat score in one or more categories. 
+Paying Garth well in excess of the amount needed to raise the stat will result in multiple 
+stat increases over time.
+
+Note that there is a manual entry under the Attributes section that states the following:
+
+"The potential maximum attribute scores are based on the initial attribute scores. The 
+maximum for an attribute is dependent on the base score and the player race. These 
+maximums can only rarely be surpassed by natural training. This is a long and arduous 
+process. Only magical methods can exceed these limits with ease."
+
+This seems to imply that Garth cannot train a stat beyond its natural maximum. This may 
+be true under "reasonable" circumstances. Giving Garth massive amounts of gold may be a 
+different story.
+
+
+2.5.6 Glod and Smithing
+
+Glod, the dwarven smith in Dwarftown, will teach the Smithing skill.  There is a price for 
+this which seems to depend on Charisma,  Appearance or both.  The base price seems to vary 
+from as low as 800 to as high as 20000 gold pieces, and seems to be heavily influenced by 
+race.
+
+Glod is also capable of removing rust from rusted items and fixing certain broken items, 
+notably pickaxes, again, for a price.  It has been reported that after removing rust from 
+an item a number of times, Glod will offer to rustproof the item.
+
+After learning the Smithing skill, Glod will make his equipment available to the PC for 
+a price, typically 2500 gold pieces.
+
+It is possible to teleport Glod away from his smithy, although the details (wand of 
+teleportation vs the Teleportation spell) have yet to be worked out. He wanders in 
+Dwarftown but still asks for the nominal 2500 gold piece fee (seemingly telepathically, 
+probably a bug) after this. However, at this point, he can be lured off the level if he 
+is adjacent to a staircase, like any other inhabitant of Dwarftown. After Glod is left 
+on another level, his demands for payment cease. Note that this may involve considerable 
+tedium as the PC attempts to lure Glod off the level.
+
+It is possible to kill Glod without making the rest of Dwarftown hostile, thus making 
+his smithy available for free. One method of doing this involves using the greater daemon 
+generated by Thrundarr's fifth quest. If the greater daemon is lured near Glod, it will 
+kill Glod.
+
+
+2.5.7 The Green Griffon Inn
+
+The Green Griffon Inn holds two useful NPCs described below. It is located in the 
+southeast corner of Dwarftown.
+
+
+2.5.7.1 Bart
+
+Bart provides teaching in three skills: Backstabbing, Tactics and Two Weapon Combat in 
+exchange for the Golden Gladius, the artifact sword provided as a reward for winning 
+the 20th Arena fight. Tactics is available only from him. He also provides some training 
+in weapon skills, raising all zero level skills to level one and providing small bonuses 
+to other weapon skils. The number of weapon marks that he gives seems to be (learning 
+score)d10. The training in weapon skills is secondary as compared to granting the Tactics 
+skill, which is of much greater importance in the game.
+
+
+2.5.7.2 Torgall
+
+Torgall is the innkeeper in the Green Griffon Inn. He is a source of rumors, for the price 
+of an ale.
+
+
+2.5.8 The Demented Ratling
+
+The Demented Ratling is an important NPC for all PCs trying for a special ending. He 
+demands to be fed six artifacts in exchange for revealing the secret of the Stone Circle, 
+where the Crown of Chaos can be found. He will only talk to chaotic PCs. He becomes much 
+more powerful each time he is fed an artifact. This is important to remember. If the PC 
+is going to cause commotion in Dwarftown, for example in order to fulfill Kherab's second 
+quest, it should only be done after feeding a number of artifacts to the demented ratling. 
+Otherwise the demented ratling may be killed in the ensuing battle for control of 
+Dwarftown.
+
+A wished-for demented ratling will make the usual demand for six artifacts from a chaotic 
+PC, but will not eat an artifact.  Instead, he responds with "Ya naw will neeta die!"  He 
+is not necessarily hostile after this.
+
+It is possible to anger the demented ratling to the point where he will attack by 
+repeatedly (about five times) talking to him after giving him artifacts.
+
+
+2.6 The Old Barbarian's Glade
+
+The Old Barbarian can be found in a clearing in the center of the wilderness map. He 
+assigns a quest to kill a score (20) of the monsters the PC first killed. As a reward for 
+successfully completing the quest he teaches the Courage skill. The quest is only 
+available to non-chaotics and is not available until the PC has killed 500 monsters.  
+Note that if the PC somehow acquires the Courage skill after the quest is assigned but 
+before it is completed (bard class power, potion of education), returns to the Old 
+Barbarian and 'C'hats with him, he is surprised and gives the PC an ordinary two-handed 
+sword.
+
+For more about strategy for the first kill, see section 0.9.1.
+
+Note that the Old Barbarian's glade is a decent place to store items. He is the only 
+monster ever generated in this location, so nothing randomly generated is going to run 
+away with the PC's stuff. If the PC leaves items far away from the Old Barbarian, he will 
+not have time to find them prior to the PC's next visit.
+
+
+2.7 The Dwarven Graveyard
+
+The Dwarven Graveyard is located in the southeastern mountains of the wilderness map. It 
+cannot be found until the PC talks to Thrundarr about "portal". The portal seals the 
+lower parts of the CoC until the PC finishes this quest or removes Thrundarr from his 
+location in Dwarftown and 'h'andles the lever controlling the portal. It is most 
+definitely worth doing the quest, since two artifacts can be found in the graveyard.
+
+There have been conflicting reports about the rewards Thrundarr provides for accomplishing 
+this quest. It is always equipment, though the status varies. Whether holy water is poured 
+on Griff's grave seems to make little difference in this preliminary examination:
+
+Griff destroyed in melee, no holy water poured on grave:
+
+uncursed wand of digging (0 charges)
+uncursed wand of fireballs (1 charge)
+heap of 6 blessed potions of extra healing
+
+a different PC, same scenario:
+
+uncursed wand of digging (5 charges)
+uncursed wand of fireballs (1 charge)
+heap of 3 blessed potions of extra healing
+
+Griff destroyed in melee, poured holy water on grave afterwards:
+
+uncursed wand of digging (5 charges)
+uncursed wand of fireballs (3 charges)
+heap of 4 blessed potions of extra healing
+
+Griff destroyed by pouring holy water on grave:
+
+blessed wand of digging (2 charges)
+uncursed wand of fireballs (2 charges)
+heap of 8 blessed potions of extra healing
+
+Using holy water on Griff's grave produces the message:
+
+You pour some water on the ground. You are overcome by feelings of gratefulness.
+
+
+2.7.1 Surface level
+
+The surface level of the graveyard is an open plain inhabited by many, many undead. There 
+are skeletons, zombies, ghuls, shadows and wights present. This is also probably the first 
+time the player finds graves. Most of the graves are not of much importance, but some of 
+them will contain the inscription "Great treasures are buried here." This inscription 
+needs to be taken with a grain of salt. It is indeed possible to find an outstanding item, 
+up to and including artifacts, in a grave marked with that inscription, but it is rare. 
+Digging up graves is a chaotic act, and will always summon some kind of guardian. These 
+range from lesser undead, guarding the ordinary graves, to very dangerous greater undead 
+such as ghost kings and emperor lichs guarding the "Great treasures are buried here." 
+graves. It is probably not worth trying to dig up the "great treasures" graves with a 
+level 13-17 PC. The PC can always return later if desired. All of this regarding digging 
+graves assumes the PC has a means of digging. The available methods are a pickaxe, a wand 
+of digging and the Mystic Shovel spell. There is a guaranteed pickaxe in the Pyramid for 
+PCs at experience level 13 - 16 (see section 2.9).
+
+If the PC has a limited supply of undead slaying ammo use it very sparingly, if at all. It 
+will be needed in the underground level.
+
+The center of the plain contains a small building that leads to the underground level.
+
+
+2.7.2 Underground level
+
+The underground level of the dwarven graveyard contains a labyrinth which features many 
+traps. It is very wise to have the Detect Traps skill while navigating this maze. Use the 
+'s'earch command constantly if the PC has the Detect Traps skill. The left side of the 
+screen is the problematic area regarding traps. The right side of the screen is Griff's 
+tomb, which has been taken over by Nonnak, the master necromancer. It contains a large 
+number of undead, including ghosts, wraiths, Griff Bloodax the undead dwarven chaos 
+berserker and Nonnak himself.
+
+There are two artifacts hidden in Nonnak's lair. The elemental gauntlets are found in a 
+hidden room in the center of the eastern wall. They are guarded by a bone golem and are 
+almost always located on a trap. The bone golem is not difficult to defeat for a PC that 
+has made it through the dwarven graveyard. The Sword of Nonnak is located in Griff 
+Bloodax's grave in the center of Nonnak's lair. It is necessary to have some means of 
+digging to retrieve it. The sword is quite important for wizards, mindcrafters and other 
+classes dependent upon Willpower. It grants +5 to Willpower. Note that digging up Griff's 
+grave to retrieve the sword is a chaotic act, like any grave digging.
+
+
+2.7.2.1 Griff Bloodax
+
+Griff Bloodax, the undead chaos dwarven berserker, is a brute force opponent. He does not 
+seem to have any special attacks, though his melee attack is formidable for a level 13 PC. 
+Note that Griff is teleportation resistant.  Therefore simply trying to teleport him away 
+in order to reach his grave and 'u'se holy water will not work.  Using undead slaying ammo 
+is very effective against him, while melee with a low-teens experience level PC may be 
+difficult.
+
+
+2.7.2.2 Nonnak
+
+Nonnak is the master necromancer that created the undead guarding the tomb. He is 
+vulnerable to fire-based attacks. He uses Frost Bolt as an offensive spell and has a 
+mediocre melee attack. PCs without cold resistance will have a very hard time defeating 
+him. He is also a summoner.
+
+
+2.8 The Mad Minstrel
+
+The Mad Minstrel lives in a hut in a clearing found in the northern central part of the 
+wilderness map. He will sing songs which are somewhat cryptic hints about important parts 
+of the game. If a player wants to finish the game without reading extensive spoilers, it 
+is very important to sit through his concerts until the player has memorized everything 
+he has to say. Alternatively, they are reproduced here along with [some interpretation]:
+
+
+ "The Lord of the Cats is a touchy fellow,
+His teeth are sharp and his eyes are yellow.
+  All kinds of cats he calls his subjects,
+  Small ones, big ones, all he'll protect.
+       If kind ye be to cats, I sing,
+      Talk from him his precious ring!"
+
+[reference to the Cat Lord and felines; see section 0.9.2]
+
+    "Felines have a shiny fur.
+When you feed them, they will purr.
+  True cat-lovers never harm them,
+ some musicians try to charm them.
+ For all others, let me warn them:
+  As soon as felines meet disaster
+ their energy rejoins their master."
+
+[more reference to the Cat Lord and felines]
+
+    "Heaven help you in the tower of hell,
+The elements will surely sound your death-knell,
+ If walking on fire still shrouds you in pain,
+  You might just need some more of the same..."
+
+[Tower of Eternal Flames; have two fire resistance sources 
+beyond the intrinsic, which counts as two]
+
+      "In a very hot tower
+  your points in life get lower.
+Resisting fire not once but twice
+       Would be very wise."
+
+[Tower of Eternal Flames; have two fire resistance 
+ sources beyond the intrinsic, which counts as two]
+
+       "A drakelings scales may be crimson red
+       if a creature of fire for dinner he had
+    he may wear tough scales and two rings to boot
+      he may have the armour and all of the loot
+          but fire is still a hazard to him
+  cause a drakeling will start to burn from within.
+
+     He will become fast, even fast as the light
+  his foes may run screaming at this unearthly sight
+      as quicklings so fast, he may just become
+      but the hazard of fire will never be gone
+  cause the speed makes him dizzy and dazy and that
+  and no ring and no scales will save him from that.
+
+      So the tower of fire is a dangerous thing
+and you should really listen to the sound of my string
+   for a drakeling has really a hard time in there
+   without healing and stuff he won't get anywhere.
+      So a potion or herb might be a good boon,
+ but if you enter without them - you are just a loon!"
+
+[warning about the special problems Drakelings have in the ToEF]
+
+"The Banshee sings a strangely compelling song,
+      No one can listen to it for long.
+              You better beware
+                And take care.
+           Beware is what you need,
+     Understand this verb and take heed."
+
+[warning about the Banshee: bee-ware (beeswax) is what you need]
+
+   "A small cave for beginners
+   The big ones are for winners
+    Do it the other way around
+And strange monsters will be found."
+
+[warning about the nature of the small cave; see section 1.2.3]
+
+      "The trinity is very tough to find
+                in case you mind.
+           three parts you will need,
+          lots of blood you will shed.
+            Once all are collected,
+      once your deceitful fame is erected,
+   once in servitude you seem to be joining,
+once chaos powers the word "friend" are coining,
+            you'll enter the gate...
+        Quickly - before it's too late!"
+
+[advice about acquiring the Chaos Trinity; advice about the level of 
+ corruption needed to enter the chaos gate (as a chaotic); do not 
+ tarry or corruption will kill the PC - this is pertaining to the 
+ "ordinary" chaos god ending]
+
+            "I'm so lazy,
+         My knowledge's hazy,
+         My sounds are loud,
+         but rarely I shout.
+        My lyrics are coarse,
+        I never owned a horse.
+      My songs I'm improvising,
+       I use them for advising.
+          Listen with care,
+       and well you will fare."
+
+[warning to pay attention to these poems, though they are cryptic]
+
+     "Ancient dwarfs
+  often come in halves.
+    Babbling they do,
+     Ladies they woo,
+    Useless they are,
+Ignorants receive a scar."
+
+[unknown]
+
+  "Hotzenplotz a bandit is,
+  Many a woman he did kiss,
+ His guards are very strong,
+so don't make anything wrong."
+
+[warning that Hotzenplotz is not a pushover]
+
+   "Dungeons are Grimy
+     Blobs are Slimy
+When dealing with Puddles
+   Missiles are Subtle."
+
+[warning about jellies in general and the fact that they corrode melee weapons]
+
+          "Only fools
+ would try to build without tools
+    A bridge sturdy and strong
+With good tools you can't go wrong."
+
+[the need for a hatchet when bridge building]
+
+           "Once a tiny cavern,
+  was a monument built by the powers of Law.
+        Now it's strangely distorted,
+by the powers of Chaos it's meaning thwarted.
+          In the depths of infinity
+   it holds the first part of the trinity,
+     which, once assembled and refitted,
+            will make it permitted
+        to become a Chaos God supreme,
+     if forceful enough yourself ye deem!"
+
+[origin of the Infinite Dungeon]
+
+ "Caladriel was an ancient crone,
+Karmic beings brought her down!
+ A phial of light she created,
+ but once she did not use it...
+ In a dark room she dissipated."
+
+[origin of the Phial of Caladriel]
+
+     "Rehetep was a long-lived guy,
+But his skin got cracked before his eyes.
+            He would not die,
+          And he would not quit,
+But his skin just wouldn't stay well-fit.
+    He wrapped it up in rags at first,
+  But after a while the rags all burst.
+         Now to keep his body in,
+ He needs to borrow someone else's skin!"
+
+[warning about Rehetep's true nature]
+
+ "Chaos piranhas really bite.
+ All are amazed at their might.
+  Yrrigs knew more about this.
+He manages to survive the fish."
+
+[warning about the chaos piranhas; hint about how to get around them]
+
+         "In the forest deep,
+         all living beings weep
+       for fairies cruel and fast
+          won't let you last.
+            Search with care
+and fast like lightning you might fare!"
+
+[hint about finding the quickling tree]
+
+   "Chaos powers mighty and dangerous
+      strive to alter all of us.
+  Corrupting effects transform thee
+faster than you would like that to be.
+   Although useful they might seem
+ they just will bring a sorrow stream."
+
+[warning that corruption will eventually kill]
+
+            "I am a baby dragon
+      My mother is bigger than a wagon
+Still she lives in a place on watery ground
+          That I have never found."
+
+[hint about Blup and Shyssiryxius]
+
+  "The Hero Rolf, of Dwarven Kind,
+     A Pillar of his Society --
+  He had an Axe, the Cutting Kind,
+  Which Caused Orcs Great Anxiety.
+  What Became of Rolf the Mighty?
+   Does Yet the World he Wander?
+The Elders Wise and Mystics Flighty
+      Even they must Wonder..."
+
+[story about Rolf the dwarven hero]
+
+       "An age ago, there lived a king, most pious and benevolent,
+  Who from his god received a ring to shield him from the elements.
+      This king, he had a brother true, a fighter lion-hearted,
+Who sought to rout all Chaos through the Gate from whence it started.
+   He purged the evil from the land, his blade once never faltered,
+       And only by his god's own hand was his adventure halted.
+  "O fighter brave," his god did say, "though noble is your mission,
+       Yet centuries must slip away before it finds completion.
+     The Balance leans too much to Law, and I must now amend it;
+    Let Chaos have its time on Earth ere back to hell you send it.
+    But watch this stair eternally, and wait for Heaven's message,
+    To show the mighty champion who's earned the right of passage.
+    For only one you'll step aside and cease your faithful vigil:
+ The one who wears your brother's ring emblazed with Heaven's sigil.""
+
+[warning about the Eternal Guardian and hint about the Ring of the High Kings]
+
+The Mad Minstrel is also a critical part of the special endings. More about his role in 
+the special endings can be found in section 4.3.1.2.
+
+
+2.9 The Pyramid
+
+The pyramid is located in the wilderness, slightly east of the exact center of the map. 
+It can be entered once the PC reaches experience level 13. When this happens, the game 
+generates a message: "You suddenly feel ancient magical energies manifest in your 
+vicinity." Searching the current location will reveal the papyrus scroll, which is an 
+invitation to enter the pyramid. It is not necessary to read, or even find, the scroll 
+for admission to the pyramid. It asks the PC to come as soon as possible. Do not be 
+fooled by this. It is best to wait as long as possible before entering the pyramid, since 
+it is a rather nasty place. The entrance to the pyramid closes permanently if the PC 
+reaches experience level 17. Ideally the PC should reach experience level 16 and keep 
+very careful track of his experience points. Approach the pyramid when the PC is close to 
+achieving level 17, within a couple hundred points. Wander around in the vicinity of the 
+pyramid to generate wilderness encounters. Killing monsters in the wilderness should 
+enable the player to fine-tune his experience score to the point where very few additional 
+points are needed to achieve level 17. Then enter the pyramid. The first couple of kills 
+in the pyramid will raise the PC to experience level 17, maximizing the chances of success 
+in the pyramid. Keep a *very* close eye on those experience points. You don't want to 
+accidentally achieve level 17 and have the pyramid close, because Rehetep carries two 
+artifacts.
+
+
+2.9.1 The first two levels
+
+The first level of the pyramid has the following layout:
+
+
+ ###########                              #######
+ #.........#      ############            #.....#             #######
+ #.##.<.##.#      #^^1.......#    #########.....#             #.....#
+##.##...##.########^####.###.#### #.........#...###################.#
+#..........^^^^^111^####.#......# #.###.#########................##.#
+###################^^11..######.# #.# #.#########.####.#####.######.##
+#^#^#^#^#^#^#^#^# ###1#########.# #.# #........^..#  #.### #..^......#
+#.#.#.#.#.#.#.#.#   #.##........# #.# ###########.#  #...# #.###.#####
+#.#.#.#.#.#.#.#.### #.##.###.#### #.#####    ####.############ #.#######
+#...............1.###.##.# #....# #....^#    #........# #.#    #..^..1.#
+#########^#######.....##.# ####.#########    #.##########.#    #.###.#(#
+#.....# #.......#.######.####.^...# ######## #.#######.##.##########.#.#
+##.##.# ####.####.########.##.###.###......# #......##.....^.1.....1.1.#
+ #.##.######.####....#.....##.# #.....####.###.####.##.#############.###
+ #.#......##.#....##.##.##....# #.....#  #.....#  #.##.###     #.....#
+ #.###.##.####.##.#####.####### #..>..######1###  #......#     #.#####
+ ### #.##......#....^...#       #.....1......#    ########     #.#
+     ####################       ##############                 ###
+
+
+The numeral 1 is used to indicate the presence of a secret door. Note the traps. These are 
+guaranteed traps. There will also be a number of non-guaranteed traps present. The 
+location of the non-guaranteed traps changes from game to game. Also note the tools 
+represented by the ( symbol. This cache of tools is guaranteed and includes thieves' 
+picks, a climbing set and a pickaxe. The tools are always located on top of a trap.
+The inhabitants of this level include (greater) mummies, ghosts, spectres, jackal demons, 
+jackalweres, jackals and hyenas. Mummies can cause sickness. It is very unwise to enter 
+the pyramid without some means of dealing with sickness. The fastest and easiest way to 
+cure sickness is with blessed or uncursed curaria mancox herbs.
+
+The second level of the pyramid has the following layout:
+
+
+   ###         ###### #######
+   #.###########....# #^^^^^#
+   #....^.....##.######1###^#####
+  ####.######....#.....^.##^#...#
+  #....# ####.####.####.###^1.<.#
+  ##^### #....^.....# #.# ###...#
+ ###.# ###.########.#############
+ #.#####........# #....##....#
+ #.##....>.###.####.#####.#####
+##.##.##...# #.#...........##.#
+#.....########.#.##.###^#####.#
+#####.....##.#.#.######.......#
+  #...###.##.######.....###.###
+  ##### #.....#   #.##### #.#
+        #######   ###     ###
+
+
+Again the numeral 1 indicates secret doors. This level is very similar to the first level 
+in terms of monsters and traps. There is no guaranteed equipment here.
+
+
+2.9.2 The top level
+
+The top level of the pyramid has the following layout:
+
+
+      #######
+     ##..Z..##
+    ##.......##
+#####&.......&#####
+#Z@.............@Z#
+#.#.............#.#
+#Z@.............@Z#
+#.#.............#.#
+#Z@.............@Z#
+#.#.............#.#
+#Z@.............@Z#
+#.#.............#.#
+#@...............@#
+##...............##
+ ###.....>.....###
+   ###.......###
+     #########
+
+
+There is a unique feature on this level. The down staircase, represented by the > symbol, 
+changes location randomly once when the PC enters the level. This forces the PC to fight 
+his way to the new location if a retreat is necessary. Furthermore, the monsters on the 
+level will not follow the PC down the stairs. In older gammas of ADOM, it was possible to 
+lure the monsters down the stairs one at a time and dispatch them. It doesn't work in 
+current versions of the game.
+
+The Z at the top represents Rehetep, the Mummy Lord. The remaining Zs are mummies. The & 
+characters are jackal demons, which have a confusion attatck. The @ characters represent 
+a random monster, generally somewhat out of depth, but not terribly so. Bear in mind that 
+mummies see invisible. If the PC is fortunate enough to have a means of invisibility at 
+this point, use it and take out the mummies first.
+
+
+2.9.2.1 Rehetep
+
+Rehetep the Mummy Lord holds two powerful artifacts, the Ankh and the Ancient Mummy 
+Wrapping. A Greater Identify of each is below:
+
+----------------- blessed ancient mummy wrapping [+1, +5] {Ap-8}---------------
+
+It is an artifact.
+
+When worn it modifies DV by +1 and PV by +5.
+When used in melee combat it grants a +0 bonus to hit and causes 1d1 points of
+damage. When used as a missile it grants a +0 bonus to hit and causes 1d1
+points of damage.
+
+It modifies your appearance attribute by -8.
+It grants resistance to sleep attacks.
+It grants resistance to stunning.
+It grants resistance to death attacks.
+It grants the ability to see invisible things.
+It grants IMMUNITY to cold attacks.
+
+--------------------------------- uncursed ankh--------------------------------
+
+It is an artifact.
+
+When worn it modifies DV by +2 and PV by +2.
+When used in melee combat it grants a -4 bonus to hit and causes 1d3 points of
+damage. When used as a missile it grants a -4 bonus to hit and causes 1d3
+points of damage.
+
+It increases your luck.
+It grants luck.
+It makes Fate smile upon you.
+
+--------------------------------------------------------------------------------
+
+Note that the [+2, +2] nature of the Ankh is not revealed explicitly except when Greater 
+Identified. Note also that it not only grants the Lucky and Fate smiles intrinsics, but 
+also increases luck, a hidden property used by the game when calculating dice rolls, etc.
+
+The artifact Ancient Mummy Wrapping is the only mummy wrapping that weighs 60 stones. Be 
+sure not to confuse it with other mummy wrappings. They are all described as a "strange 
+wrapping" prior to identification. The resistances granted by the Ancient Mummy Wrapping 
+are considerable and should give clues about how to attack Rehetep. Using cold based 
+attacks is, of course, useless. Rehetep and other mummies are vulnerable to fire. This is 
+where the wand of fireballs available from Thrundarr as a quest reward comes in very 
+handy. Do not give up when messages about Rehetep "shrugging off" fire based attacks are 
+generated. He will succumb to repeated fire attacks. All mummies including Rehetep are 
+vulnerable to undead slaying ammo, of course.
+
+Note that the combination of cold immunity and the see invisible intrinsic available from 
+the Ancient Mummy Wrapping makes Li-Hon-Kay, a potential 20th Arena fight opponent, much 
+easier to defeat.
+
+
+2.10 The Gremlin Cave
+
+The Gremlin Cave is located in the southwest corner of the Drakalor Chain. It contains 
+guaranteed items: the Phial of Caladriel, which is an artifact potion, fluff balls, which 
+turn into gremlins when exposed to water, and a climbing set. There are messages generated 
+when the PC enters the Gremlin Cave: "You feel watched. You shiver. You shiver really bad! 
+It's dark here!". The Gremlin Cave is dark and filled with water traps, which, when 
+triggered by the gremlins, cause them to multiply. Things can get out of control quickly in 
+this cave due to the rapid replication of the gremlins. The objective is to retrieve the 
+Phial of Caladriel and optionally the climbing set. There is another guaranteed climbing 
+set in the Pyramid (section 2.9). The Phial is located in the farthest possible corner 
+from the entrance.
+
+The cave is dark and gremlins are damaged by the Light spell and wands of light. An amulet 
+of light, a torch, adequate castings of the Light spell or many wands of light are 
+necessary simply to see and navigate the cave. The spell or wands can also be used to kill 
+gremlins. If the PC is fairly buff, the Gremlin Cave can be used to train weapon skills, 
+since a potentially infinite number of gremlins will be generated. They are not 
+particularly difficult for a mid-level PC to kill until the PC has killed thousands.
+
+Since there are a potentially endless number of gremlins available, it is also possible to 
+use the Pick Pockets skill indefinitely. This will both train the skill and satisfy Yergius 
+regarding the PC's proficiency as a thief. Bear in mind also the always-present possibilty 
+of pickpocketing a truly outstanding item. While it is very rare, artifacts have been 
+pickpocketed this way.
+
+Note that it is in no way necessary to enter this cave to complete the game. It is simply 
+a source of an expendable artifact which can be sacrificed, given to the demented ratling 
+or sold. The climbing set is also useful of course, especially if the PC has missed the 
+opportunity to enter the Pyramid.
+
+
+2.11 The Assassins' Guild
+
+The Assassins' Guild is located in the wilderness, west of the river that divides the 
+Drakalor Chain. The entrance is described as "A rather boring cave entrance." It consists 
+of three levels.
+
+
+2.11.1 The DDL
+
+The first level is named the DDL and contains no unique special features, although it may 
+contain any of the normal dungeon features: traps, herbs, rivers, etc.
+
+
+2.11.2 The VDDL
+
+Upon entering the second level, the message "This dungeon is very dusty." is generated. 
+This level contains many, many teleportation traps and can be annoying without teleport 
+control. It also contains one guaranteed item: a wand of teleportation. The wand is always 
+next to the down staircase found on the level in a 1 x 2 room that is separated from the 
+rest of the level. It can only be reached by digging or teleportation. In practice, the 
+easiest way to find the down staircase is to zap a wand of item detection. This will reveal 
+the location of the wand, which the PC can then dig or teleport to, thus revealing the 
+staircase. Note that it is possible for a monster to be standing on the wand, so 
+teleportation may fail.
+
+
+2.11.2.1 The hidden stairway and how to descend
+
+The hidden down staircase in the VDDL is like no other in the game. It is itself a 
+teleportation trap and will attempt to teleport the PC away when he tries to descend. 
+Needless to say, this is extremely frustrating without teleport control. There is a 
+requirement to trigger a certain number of teleportation traps on the level before the PC 
+can descend. This can be done with either the normal teleportation traps or the staircase 
+itself. However, it is much more efficient to use teleportation traps that are far away 
+from the down staircase. They are up to six times faster at increasing the count of 
+unsuccessful attempts. Just keep trying until the PC receives the message "You suddenly 
+feel attuned to this area in a very special way." It is then possible to descend.
+
+
+2.11.3 The final level
+
+The final level of the Assassins' Guild has no proper name; it is only named with four 
+question marks: "????". There are definite precautions necessary on this level. The PC 
+initially descends into a 3 x 3 room containing four assassins. The assassins are not 
+particularly dangerous opponents, although they use poison. There is a safe passage 
+available through the level which is free of traps, otherwise the level is full of traps. 
+The PC *must* not use missile weapons on the level. If he does, a general alarm is sounded 
+and the Assassin Prince, who is very important to the special endings, becomes hostile and 
+refuses to give quests later in the game. Likewise, a failed pickpocket attempt will raise 
+the general alarm. Also be careful during the melee. If an assassin panics, leave him 
+alone. Attacking panic-stricken assassins will also make the Assassin Prince hostile. In 
+their panicked state, they make begin attacking each other or the Assassin Prince himself. 
+Pay no attention to them. The level contains assassins, master assasins, holy slayers, 
+gray slayers, muggers, dopplegangers and doppleganger lords.
+
+Teleportation is not allowed on this level.
+
+Obviously, there are some nasty monsters here and there is no particular objective for 
+low-level PCs, other than killing the monsters for experience. The PC may elect to skip 
+this level until much later in the game.
+
+
+2.11.3.1 The Assassin Prince
+
+The Assassin Prince is the source of the Filk Quest, on behalf of the Mad Minstrel. This 
+quest is only necessary for the Ultra endings. See section 4.3.1.1 for a description of 
+this quest and its requirements. If a PC is not planning to do an Ultra ending, it may be 
+worth killing the Assassin Prince for the artifact dagger Sting, which he carries. Note 
+two things: the Assassin Prince has been described as the offspring of a moloch and a 
+quickling queen - he's not quite that bad, but he is a very difficult opponent - and 
+second, Sting is really only worth acquiring if the PC has or plans to obtain its 
+companion dagger Needle, available from Sharad-Waador (see section 3.9).
+
+
+2.12 The Tomb of the High Kings
+
+
+The Tomb of the High Kings is located in a dungeon found in the northwest corner of the 
+Drakalor Chain. The PC must have a climbing set to reach it (and to leave that section of 
+the map). The fact that a climbing set is required means that the PC must do some work to 
+find one prior to entering the dungeon. This ensures that brand new PCs do not enter this 
+location. The dungeon consists of two normal levels followed by three cavernous levels 
+leading to the tomb. The cavernous levels are somewhat challenging, as are most cavernous 
+levels.
+
+The tomb itself consists of a short winding corridor leading to a large chamber. The 
+chamber contains a lake which is unique in that the water is red rather than blue. This 
+should serve as a warning. It is filled with chaos piranhas that deal over 200 points of 
+damage during each turn the PC is in the lake. This is the place where the Bridge Building 
+skill or the ability to freeze water (yielded by the Terinyo quests) becomes vital.
+
+Teleportation is not allowed on this level, so do not count on it to get your PC out of a 
+tight spot.
+
+The PC must build a bridge or create an ice bridge to an island located in the lake. 
+Remember that ice bridges will only hold the PC's weight plus 2000 stones before breaking. 
+On the island is a 1 x 1 room protected by a locked and trapped door. Upon opening the 
+door, a skeletal king is found guarding the Ring of the High Kings. The skeletal king is a 
+somewhat nasty foe who is able to confuse the PC. This is not a good thing when the PC is 
+perched on a bridge, liable to stumble to certain death in the piranha infested waters 
+below. Some means of confusion resistance is therefore highly recommended. The skeletal 
+king is immune to the chaos piranahs so luring him into the lake will not kill him. He is 
+vulnerable to undead slaying ammo, of course. He is not difficult to kill in melee for a 
+mid-level PC with a decent melee attack.
+
+The objective of this dungeon, the Ring of the High Kings, 
+is Greater Identified as follows:
+
+-------------------- blessed ring of the High Kings [+2, +3]-------------------
+
+It is an artifact.
+
+When worn it modifies DV by +2 and PV by +3.
+When used in melee combat it grants a +0 bonus to hit and causes 1d1 points of 
+damage. When used as a missile it grants a +0 bonus to hit and causes 1d1 points 
+of damage.
+
+It grants resistance to fire.
+It grants resistance to poison.
+It grants resistance to cold.
+It grants resistance to shock attacks.
+
+--------------------------------------------------------------------------------
+
+The Greater Identify does not reveal the most important property of the ring, however: 
+it allows peaceful passage past the Eternal Guardian (see section 3.3).
+
+Here is an ASCII map of the Tomb of the High Kings, showing the shortest route to the 
+island formed with an ice bridge:
+
+
+                                                                    #####
+                       ###############                              #...#
+              ##########.............#######                        #@<.#
+           ####............................#####                    #...#
+         ###...................................##                #####.##
+         #.............============.............###              #.....#
+       ###.........===================............#              #.#####
+       #.........=======================.........### #######     #.####
+       #.........==========###===========..........###.....#     #....#
+       ###.......==========#./===========..............###.##### ####.#
+        #.........=========####==========..........##### #.#...#    #.#
+        ##..........==========#========...........##     #.#.#.#    #.#
+         ###...........=======#====...........#####      #...#.######.#
+           ###.............................####          #####........#
+             #####.....................#####                 ##########
+                 #######################
+
+
+2.13 The Water Dragon's Lair
+
+The water dragon's lair is located in a random water-containing square of the wilderness. 
+It contains Shyssiryxius, the water dragon (Blup's mother), her treasure hoard and various 
+other aquatic beasts. It consists of a labyrinth and a central room containing 
+Shyssiryxius and the treasure. The entire cave is submerged, so ordinarily some means of 
+water breathing and the swimming skill are required. The most common method of obtaining 
+water breathing is through a helm of water breathing (generally a "blue helmet" before 
+identification). Wearing two rings of the fish also grants this, although they are 
+autocursing. If the PC is not born with the swimming skill, it can be obtained from Blup 
+by giving him potions of carrot juice. The need for these abilities ordinarily keeps low 
+level PCs out of the lair, which is as it should be. The aquatic beasts found in the 
+labyrinth are not trivial, especially the dragon turtles. Sharks and giant eels can also 
+be found.
+
+In theory a PC with on demand teleportation, high hit points and possibly some regeneration 
+could survive a teleport to Shyssiryxius, a chat and a teleport to the up stairs without 
+water breathing or swimming.
+
+There are two main reasons for entering. The first is to 'C'hat with Shyssiryxius then 
+return to Terinyo. This allows the PC to inform Blup about the location of his mother, 
+which results in eventual delivery of the rune-covered trident, a decent artifact weapon 
+and missile, later in the game. The trident is delivered not long after reaching character 
+level 16 for PCs born in the Raven starsign. Others have to wait until level 36. The 
+location of the lair is not decided until the PC starts searching for it, so it is more or 
+less possible to place it in a convenient location, such as near Terinyo.
+
+The second reason for entering the lair is to loot it. There are occasionally outstanding 
+items found in the treasure hoard. As might be expected, Shyssiryxius does not take kindly 
+to thieves and will attack.
+
+Note that delivery of the rune-covered trident is guaranteed once the PC informs Blup of 
+Shyssiryxius' location. The PC may then proceed to loot the cave, or indeed even kill 
+Shyssiryxius without forfeiting the rune-cavered trident.
+
+
+2.13.1 Shyssiryxius
+
+Under normal circumstances, Shyssiryxius is not hostile, only intimidating.  If she is 
+'C'hatted with, she roars "HAST YE SEEN MY BABY?" (or "*DIE*" if the PC has done something 
+to make her hostile).  Whether she is hostile or not, the PC can leave after chatting and 
+report back to Blup.  This of course assumes a PC facing her when she is hostile survives 
+(see below).  If the PC attempts to steal from her treasure hoard, she gives a warning about 
+not picking anything up.  If the PC persists, she will attack.  She is a formidable opponent 
+with a reasonably powerful melee attack and a deadly water breath attack that is capable of 
+dealing circa 100 points of damage in a single round.  She regenerates and is immune to cold.  
+She is capable of teleporting and does so when she panics, making the PC work to find her 
+while remaining underwater the whole time.  She can be killed, but it takes an upper level 
+PC, and it doesn't hurt to have some blessed potions of extra healing along.
+
+
+2.14 Khelavaster
+
+Khelavaster is the sage who revealed the prophecy about the coming of chaos. He entered the 
+dungeons in the Drakalor Chain never to be seen again. The PC eventually encounters him 
+below Dwarftown, after the Dwarven Halls or Animated Forest, generally on D: 16. By this 
+time Khelavaster is mortally wounded and surrounded by chaos servants.
+
+
+2.14.1 Saving Khelavaster
+
+At this time the PC must make a choice about saving Khelavaster. He is on the down 
+staircase and it is impossible to descend further without saving him or allowing him to 
+die. It is however, possible to ascend, leaving the level in its state as found for an 
+indefinite period of time. He can only be saved by giving him an amulet of life saving 
+*before* 'C'hatting with him. There is no guaranteed way to obtain an amulet of life saving 
+and they are very rare items. If the player is determined to attempt an ultra ending, 
+Khelavaster must be saved since he is the only one capable of summoning the Trident of the 
+Red Rooster.
+
+Common methods of attempting to get an amulet of life saving include staying in the 
+infinite dungeon until one is generated or draining every pool the PC has found in the 
+hopes of obtaining a wish. A ring of djinni summoning may also be generated in the infinite 
+dungeon, which provides a wish when blessed.
+
+
+2.14.2 Khelavaster's gifts
+
+In any case, Khelavaster reveals a bit about the plot of the game including the existence 
+of the chaos orbs and their general locations. He also leaves some equipment for the PC. 
+The equipment he leaves depends on whether he is saved or dies. The equipment is 
+guaranteed, but if he is allowed to die the exact status varies. Three examples are shown 
+below.
+
+cursed robe [+0, +1]
+uncursed boots of sneakiness [+0, +2] {Dx +2}
+blessed amulet of protection +2
+uncursed eternium dagger (+0, 2d4+7)
+cursed wand of digging (4 charges)
+cursed potion of invisibility
+474 gold pieces
+
+uncursed robe [+0, +1]
+uncursed boots of sneakiness [+0, +0] {Dx+5}
+uncursed amulet of protection +2
+uncursed eternium dagger (+1, 2d4+7)
+uncursed wand of digging (4 charges)
+uncursed potion of invisibility
+271 gold pieces
+
+uncursed robe [+0, +1]
+uncursed boots of sneakiness [+0, +0] {Dx+2}
+uncursed amulet of protection +2
+cursed eternium dagger (+0, 2d4+7)
+uncursed wand of digging (4 charges)
+cursed potion of invisibility
+406 gold pieces
+
+If Khelavaster is saved, the equipment he leaves is (almost) exactly the same every time:
+
+blessed eternium dagger (+0, 2d4+7)
+blessed wand of digging (8 charges)
+heap of 4 blessed potions of ultra healing
+heap of 6 blessed scrolls of chaos resistance
+blessed spellbook of Identify
+blessed spellbook of Teleportation
+
+Note the quality of this equipment. The six blessed scrolls of chaos resistance alone are 
+roughly equal to two wishes. Thus it is definitely worth spending a wish to obtain an 
+amulet of life saving for Khelavaster.
+
+The exact stats of the eternium dagger may vary. A recent report (Feb 26, 2001) revealed 
+that the dagger may be as good as (+0, 2d4+10).
+
+If Khelavaster is saved, he reappears in invisible form in Terinyo late in the game. If the 
+PC gives him the crumpled scroll, obtained by killing the Emperor Moloch, he will summon 
+the TotRR for non-chaotics. There is apparently an experience level requirement in order 
+for Khelavaster to appear in Terinyo, but the PC does not need to have the crumpled scroll.
+
+
+2.15 The CoC Graveyard
+
+The graveyard level in the CoC is found on D: 17. The layout is as follows:
+
+
+###### ################################################################# ######
+#....###.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.###....#
+#.<@./...................................................................+....#
+#....###.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#.###....#
+###### ################################################################# ###/##
+                                                                           #.#
+       #################################################################   #.#
+       #+.+...+.+.+....+...+.++..++.....+...+.+.+++......+.+++.....+..+#   #.#
+       #...+.++......++++....+........++...+..++.++.......+...+.+....>.#   #.#
+       #....+...+.+.++.....+...+.....+..++.+.+...+.+.+..++...+++..+..+.#   #.#
+       #+.++..++........+.+...................++++.+..++.+.+++++....+..#   #.#
+       #+..+....+.+.+++.++.+.++.++.+...+.+......+++....+..++++.+++....+#   #.#
+###### ####/############################################################ ###/##
+#....#    #.#                                                            #....#
+#....######.##############################################################....#
+#......................................................................../....#
+###############################################################################
+
+
+The + signs represent graves. The location of the graves is random. The monsters on the 
+level are arrayed as follows (those in the central room are standing on the graves until 
+they are disturbed):
+
+
+###### ################################################################# ######
+#....###z#z#Z#G#Z#Z#Z#G#Z#z#Z#z#z#G#z#G#G#Z#z#z#G#Z#z#z#G#Z#Z#G#G#G#G#G###....#
+#.<@./...................................................................+....#
+#....###G#G#z#G#G#G#z#z#G#G#Z#z#z#z#z#G#Z#z#G#G#z#Z#Z#z#G#Z#z#z#z#G#G#z###....#
+###### ################################################################# ###/##
+                                                                           #.#
+       #################################################################   #.#
+       #L.Z...G.z.z....Z...G.LG..GZ.....Z...L.G.Zzz......Z.zZZ.....Z..Z#   #.#
+       #...z.zG......GzZG....G........ZG...z..GL.Gz.......Z...z.G....>.#   #.#
+       #....z...Z.Z.GL.....z...G.....L...Zz.Z.G...Z.Z.z..ZZ...ZGG.G..Z.#   #.#
+       #Z.zz..ZZ........z.G...................GzGZ.z..ZG.G.ZzzGz....Z..#   #.#
+       #G..G....z.z.zZG.zz.L.LZ.Zz.G...Z.G......GGZ....G..ZZzZ.GzG....z#   #.#
+###### ####/############################################################ ###/##
+#....#    #.#                                                            #....#
+#....######.##############################################################....#
+#......................................................................../....#
+###############################################################################
+
+
+The northern tunnel contains ghuls, skeletons, zombies, shadows, wights and wraiths. 
+Ghosts may pass through the walls into this corridor. The central room contains, in 
+addition, more dangerous undead: corpse fiends, ghosts, lichs, mummies and greater 
+mummies, skeletal warriors, spectres and vampires. The monsters here who see invisible 
+are: mummies, greater mummies and lichs.
+
+The graves are diggable. See section 2.7 concerning digging up graves. See Appendix J for 
+monster characteristics.
+
+
+2.16 The Water Temple
+
+The Water Temple, found on either D: 19 or D: 20, is the first elemental temple that most 
+PCs will encounter. The layout, on the left side of the level, is as follows:
+
+
+   ##########################            #######
+  ##........................##           #.....#
+ ##..======================..##          #..<..###############   #########
+ #..========================..#          #...@...............#   #.......#
+ #.====..................====.#          ###########.........#####.......#
+ #.===..################..===.#                    #........./.../.......#
+ #.==...#......==......#...==.#                    #.........#####.......#
+ #.==...#.#=^######^=#.#...==.#                    #.........#   #.......#
+ #.==.....#=...._...=#.....==.#          ###############/#####   #.......#
+ #.==...#.#=^######^=#.#...==.#          #.............#.#       #.......#
+ #.==...#......==......#...==.#          #.......#####+#+####### #####/###
+ #.===..################..===.#          #.......#   #.........#     #.#
+ #.====..................====.#          #########   #.........#######/#
+ #..========================..#                      #........./.......#
+ ##..======================..##                      #.........###...>.#
+  ##........................##                       #.........# #.....#
+   ##########################                        ########### #######
+
+
+The right side of the level is random. Note that the temple itself is disconnected. Entry 
+must be made by digging.  Teleportation is not allowed on the level. Note the traps. Note 
+the underscore in the center of the temple. This is the chaotic elemental altar where the 
+orb guardian is found (at least until it is disturbed and moves). The elemental altars are 
+very dangerous. The temples are populated by sentient beings who will sacrifice the PC 
+instantly should he step on it. In addition, they can only be converted by champions of 
+Balance or Order, which means PCs going for an ultra ending cannot convert them early in 
+the game, before retrieving the Medal of Chaos. The monsters in the Water Temple are 
+arrayed as follows:
+
+
+   ##########################            #######
+  ##...........xx...........##           #.....#
+ ##x.======================.x##          #..<..###############   #########
+ #..========================..#          #...@...............#   #.......#
+ #.====.s..s.xs..sx.s..s.====.#          ###########.........#####.......#
+ #.===s.################.s===.#                    #........./.../.......#
+ #.==..x#C.&..&==&..&.C#x..==.#                    #.........#####.......#
+ #.==.s.#C#=^######^=#C#.s.==.#                    #.........#   #.......#
+ #.==...CC#=xEEEsEEx=#CC...==.#          ###############/#####   #.......#
+ #.==.s.#C#=^######^=#C#.s.==.#          #.............#.#       #.......#
+ #.==..x#C.&..&==&..&.C#x..==.#          #.......#####+#+####### #####/###
+ #.===s.################.s===.#          #.......#   #.........#     #.#
+ #.====.s..sx.s..s.xs..s.====.#          #########   #.........#######/#
+ #..========================..#                      #........./.......#
+ ##x.======================.x##                      #.........###...>.#
+  ##...........xx...........##                       #.........# #.....#
+   ##########################                        ########### #######
+
+
+They are: s - water snakes
+          x - water grues
+          & - water demons
+          C - chaos servants
+          E - water elementals
+          s - (in the center) Snake from Beyond
+
+
+To attack the temple, the PC must dig in, have a means of crossing the water, then attack 
+the monsters. They are all vulnerable to fire based attacks. The grues and demons in 
+particular are troublesome because they have a corrupting melee attack that has a very 
+high to-hit. Even PCs with very good DV will be hit by them eventually - a good reason to 
+develop the PCs missile weapon skills. The snakes, including the Snake from Beyond, are 
+poisonous. Invisibility is tremendously useful. The only monster found here who sees 
+invisible is the Snake from Beyond.
+
+
+2.16.1 The Snake from Beyond
+
+The Snake from Beyond has been beefed up in recent gammas and is now a formidable opponent. 
+It generally does not kill a PC that has made it this far, but has nasty poisonous and 
+corrupting attacks that rarely miss. If possible, it should be killed from a distance, 
+easier said than done in the close quarters of the Water Temple. Unfortunately, it is not 
+vulnerable to any type of slaying ammo.
+
+An examination of the Snake from Beyond with a blessed stethoscope reveals:
+
+You examine the Snake from Beyond. Diagnosis: Level: 1, DV: 45, PV: 22, 
+Hits: 477, Attacks: 1, Damage: 12-56. Speed: 101.
+
+Very high hitpoints and formidable DV/PV for a PC at this level.
+
+The Snake from Beyond holds the Chaos Orb of Elemental Water, 
+greater identified as follows:
+
+----------------- uncursed Chaos Orb of Elemental Water {Wi+10}----------------
+
+It is an artifact.
+
+When used in melee combat it grants a +3 bonus to hit and causes 2d9+3 points of damage. 
+When used as a missile it grants a +3 bonus to hit and causes 1d10+3 points of damage.
+
+It modifies your willpower attribute by +10.
+
+(full heal + corruption when 'U'sed)
+
+
+2.17 The Banshee
+
+
+The Banshee is found on a level ranging from D: 22-24. She is an undead spirit in ghost 
+form. She pines for her lost husband. Her wail is instantly fatal to most who hear it. 
+PCs can prevent this in two ways. The first is by 'U'sing beeswax. This plugs the PC's 
+ears, making him deaf until it is removed with the 'E' clean ears command. The second is 
+by drinking a potion of deafness. Potions of deafness wear off, but the effects of an 
+uncursed potion of deafness will last long enough to kill the Banshee. Using either method, 
+the Banshee can then be attacked safely.
+
+The Banshee is always found in a room in the center of the level.
+
+Alternatively, a male character can wield a wedding ring. In this case the PC in question 
+still hears the Banshee's wail, but it does not damage the PC. The Banshee is still 
+hostile, however. The Banshee's wail is displayed to a male PC wielding a wedding ring as 
+follows by the game:
+
+The Banshee regards you in astonishment. "My beloooovvveed huuuusbaaaaaaaaaaannnd!"
+
+Beware of trying to lead the Banshee around while wielding a wedding ring.  While her wail 
+can be exploited (see below), this is a dangerous practice.  The wedding ring only works 
+while the Banshee can see the PC, so leaving her line of sight for even a single turn can 
+be fatal.
+
+The Banshee routinely shrugs off bolt spells, but can eventually be killed using them. She 
+is not difficult to kill in melee.
+
+Players have exploited the properties of the Banshee by having her follow a deaf PC around. 
+Her wail kills many monsters. A report from the Russian ADOM newsgroup (January 16th, 2001) 
+reveals that the trees in the animated forest are vulnerable to the Banshee's wail. As 
+might be imagined, dozens of trees dying every few turns leads to some very nice treasure. 
+The downside is that the Banshee will become very experienced very quickly, thus making her 
+much more difficult to dispatch should the need arise. NPCs known to be immune to her wail 
+include Waldenbrook, Thrundarr, the Eternal Guardian and the Casino shopkeeper. Banshees 
+can be wished for. There have been reports of wished-for Banshees being effective against 
+some of the monsters found on D: 50 in gamma 12, but most seem to be immune in later gammas.
+
+A blessed stethoscope is not helpful as far as the Banshee is concerned. The game states 
+the Banshee appears to be rather dead. The monster memory contains the following after 
+killing the Banshee:
+
+
+                       <<<<<--- Banshees (G) --->>>>>
+
+The Banshee, a luminous spirit, manages to appear sad and angry at the same
+time, obviously a being in an enraged lamentation. Her wail is renowned as it
+is filled with such sorrow and hopelessness that most who hear it abandon life
+instantly, passing beyond their current pains.
+
+Banshees seem to have a DV of 40. They have a PV of about 2. They seem to
+have 187 hitpoints on the average. Usually they attack 2 times. They seem
+to have an average speed of about 107.
+
+So far you have killed but one Banshee. One kill on the average seems to be
+worth 61779 experience points.
+
+
+2.18 Darkforge
+
+Darkforge is an important location in the game. It is not a location for low level PCs. 
+The entrance to Darkforge is described as "A long and non-descript tunnel." The first 
+level of the dungeon is not particularly dangerous except for the presence of a steel 
+golem guarding the down staircase. Steel golems are very tough monsters for a mid-level 
+PC. If the PC has trouble with the steel golem guarding the down staircase, flee. There 
+are many more guarding Darkforge itself. Upon entering Darkforge, the message "You smell 
+the reek of sulphur, steel and oil." is generated. The steel golems that guard Darkforge 
+are unlife and thus immune to Mindcraft. They are vulnerable to missiles of construct 
+slaying, but it is almost unheard of to find enough such ammo to take them all out by this 
+point in the game. They are vulnerable to Lightning, from the spell or wand, although it 
+will take many castings or charges to kill all of them. Steel golems will shrug off many 
+lightning attacks, but can eventually be killed this way. They breathe fire, so both the 
+PC and his equipment need to be protected from fire. Many players will attempt Darkforge 
+just before assaulting the Tower of Eternal Flames, in order to determine whether their 
+PC has a good chance in the ToEF.
+
+Darkforge is a very good way of gaining experience levels for PCs that can deal with the 
+steel golems. A typical non-troll PC that manages to clear Darkforge of the initially 
+generated steel golems will gain at least five experience levels - very useful when about 
+to attempt the ToEF.
+
+Here is an ASCII map of Darkforge. Note the caches of weapons, armor (it is possible to 
+obtain artifact weapons and armor from these rooms) and gold, the room containing pools 
+(which are not always generated in this pattern), the hidden room containing the Crown of 
+Science (the lone [ ), the shortcut to the lower CoC and the nine forges.
+
+
+                    ###########                                          #####
+           ##########.#.......#      ##################                  #...#
+  ######   #.......##.#######.#      #...........+[[[[############# ######.<.#
+  #.+..### #.#####.##.....# #.#  #####+###########[[[[##.+...=0===# #...##...#
+  #.###..###.#   #.##+############.........###   #[[[[##.####=000=# ###.###.##
+  #$$$##..##.#   #............##.............#   #[[[[##.#  #00===#####.##...#
+  #$$$###..#.### ######+##.#####......&......###########.#  #=====##.##.###.##
+ #########.#...#######..##.####......&.&......##.........#  ########.##.##...#
+ #.......#...#.#....##.##.....+.....&.&.&.....+#.############      #.##.###.##
+ #.###########...##.##.##.#####......&.&......##.# #........#      #....##.@.#
+ #.################..+....#   ##......&......###.######.############.######.##
+ #.##.#.#.#.#.#.################.............# #...#  #....##....#...#   #...#
+ #.................#   #(((((((###.........### ###.#  ####.##.####.########.##
+ ####.#.#.#.#.#.##.##  #(((((((# #####+#####     #.####.##.##.## #.##.......#
+    #############...#  #(((((((#######.#         #......##.....# #.##.#######
+       #...#    #.>.#  #(((((((+.......#         #################.##.#
+       #.[.#    #...#  #################                      #.......#
+       #####    #####                                         #########
+
+
+It is not wise to spend inordinate amounts of time in Darkforge - for example smithing. 
+Darkforge has a higher than normal rate of background corruption.
+
+
+2.18.1 Kherab
+
+Kherab is the dwarven artificer found in Darkforge. He is presumably the creator of the 
+steel golems, steel horrors and animated armors found in Darkforge. He is quite tough, 
+with hitpoints numbering in the hundreds and a powerful melee attack. He holds two items 
+necessary for smithing: a hammer and an anvil. He is the source of two quests outlined 
+below.
+
+
+2.18.2 Kherab's quests and their rewards
+
+Kherab is the source of two chaotic quests. The first is to kill Guth'Alak, the druid 
+found in Terinyo. This of course removes Guth'Alak as a source of potions of cure 
+corruption and as the source of the Unicorn quest. Depending on how it is accomplished, 
+the entire village of Terinyo may become hostile as well. If this happens, it may destroy 
+any chance the PC has to obtain the TotRR. The reward for this quest is the corrupting 
+artifact amulet of raw steel. The second quest is to kill Thrundarr, the village elder in 
+Dwarftown. This can have all sorts of negative effects as well, including turning all of 
+Dwarftown hostile and the killing of the demented ratling. The reward for this quest is 
+the corrupting shield of raw steel.
+
+The quest rewards are useful only because they are artifacts. They can be fed to the 
+demented ratling, for instance. They are too corrupting to be useful otherwise. These 
+"rewards" are not really rewards. Kherab is an evil chaotic being and wants the PC dead. 
+Giving away corrupting artifacts is his way of trying to accomplish this.
+
+
+2.19 The Tower of Eternal Flames
+
+The Tower of Eternal Flames, found in the Wilderness, is probably the nastiest place in 
+the game given the experience level of PCs who must visit it. The layout of the Fire 
+Temple itself, found on the uppermost of four levels, on the right side of the level, is 
+as follows:
+
+
+  #######
+  #.....#                                       #########
+  #.>...###       #############          ###### #.......###
+  #.......#       #...........#         ##....# ###x......###
+  #######.#   #####...........#         #.....#   ###.......#
+        #.#   #.../...........#         ##...## ###........##
+#########.#####.###...........#          ###..###..........#
+#.......#.......# #...........#            ##.#..........###
+#.......###.##### ###/#########            ##..............##
+#......./...#       #.#                    #................###
+#.......##### #######/#####                #........_.........##
+#.......#     #...........#            ######..............##..##
+#########     #...........#            #....#.##.........#####..#
+              #...........#           ##......##.#########  ###.#
+              #...........#           #......###........# ###...##
+              #...........#           ##....## ####....## #......#
+              #############            ######     ######  ########
+
+
+The left side of the level is random. Note that the temple itself is disconnected. Entry 
+must be made by digging.  Teleportation is not allowed on the level. Note the underscore 
+in the center of the temple. This is the chaotic elemental altar where the orb guardian is 
+found (at least until it is disturbed and moves). The elemental altars are very dangerous. 
+The temples are populated by sentient beings who will sacrifice the PC instantly should he 
+step on it. In addition, they can only be converted by champions of Balance or Order, which 
+means PCs going for an ultra ending cannot convert them early in the game, before retrieving 
+the Medal of Chaos. The monsters in the Fire Temple are arrayed as follows:.
+
+
+  #######
+  #.....#                                       #########
+  #.>...###       #############          ###### #xxxxxxx###
+  #.......#       #...........#         ##EEEE# ###xxxxxxx###
+  #######.#   #####...........#         #EEEEE#   ###CD.&&.C#
+        #.#   #.../...........#         ##EEE## ###&..&..&.##
+#########.#####.###...........#          ###..###&.&&.&.&.C#
+#.......#.......# #...........#            ##E#C..&..&...###
+#.......###.##### ###/#########            ##&.&.&..&.&..&.##
+#......./...#       #.#                    #C..&.&.DDD..&...###
+#.......##### #######/#####                #..&.&..DWD.&.&..E.##
+#.......#     #...........#            ######C.&.&.DDD&&...##.E##
+#########     #...........#            #EEEE#E##..&..&.&.#####..#
+              #...........#           ##EEEEEE##C#########  ###E#
+              #...........#           #EEEEEE###CCCCCCCC# ###EEE##
+              #...........#           ##EEEE## ####CCCC## #EEEEEE#
+              #############            ######     ######  ########
+
+
+PCs are denied entrance to the lower CoC until they have the Chaos Orb of Elemental Fire, 
+held by the Ancient Chaos Wyrm in the ToEF, and the game stalls at this point. PCs can 
+continue to gain experience levels by staying on available cavernous levels (for instance) 
+in order to have a better chance in the Tower. Ultimately, however, boredom will set in and 
+the PC will have to face the Tower. Obtaining the Fire Orb is a huge hurdle to get over and 
+marks a division between the earlier, beginning parts of the game and the latter parts of 
+the game. Some players also believe it marks the division between beginning and advanced 
+players.
+
+The Tower of Eternal Flames consists of four levels. They are all very, very hot. This 
+causes damage to both the PC and his equipment, whether worn or in the pack. To protect the 
+PC, fire resistance or immunity is necessary. See section 0.12.1 about fire resistance.
+
+To protect the PC (other than drakelings, see below) completely from the heat in the ToEF, 
+the PC must have four sources of fire resistance. Note that intrinsic fire resistance 
+counts as two sources. Thus, for example, a PC with intrinsic fire resistance wearing a 
+ring of fire resistance under the elemental gauntlets would take no damage from the heat in 
+the Tower.
+
+There are a number of artifacts that grant fire resistance or immunity. Two guaranteed 
+examples are the elemental gauntlets (resistance) and the Crown of Science (immunity, but 
+also dooms and curses). It is probably not worth wearing the Crown of Science unless the 
+situation is desperate, since the bad luck it generates causes firproof blankets and rings 
+of ice to fail much more often, in addition to the usual bad effects. There are several 
+other nonguaranteed artifacts which grant resistance or immunity to fire. It is worth 
+remembering that artifacts are indestructible and so cannot be damaged by the heat in the 
+Tower.
+
+Drakelings face special problems in the ToEF. The Mad Minstrel sings a song about this. 
+Drakelings, even those with fire immunity, always take damage in the ToEF. This is not 
+because of the heat itself but is a secondary effect due to the greatly increased 
+metabolism drakelings will suffer from in the ToEF. There is no way around it. In order to 
+survive, drakelings must have a means of regeneration or healing in the ToEF. Ideally an 
+artifact that causes regeneration should be worn. An alternative is to bring blessed 
+potions of extra healing along. It is possible for drakelings to do the ToEF with only 
+three or four blessed PoEH if everything is done efficiently with no wasted time.
+
+One technique drakelings (and other races for that matter) can use is to read a blessed 
+scroll of magic mapping upon entering a new level of the ToEF followed by teleportation to 
+the up stairway. Obviously the PC must have the necessary scrolls, wands or spell and 
+teleport control.
+
+The heat in the tower will destroy equipment that is vulnerable to fire. This includes most 
+items that are not made of the higher metals mithril, adamantium and eternium. Artifacts 
+are of course the exception.
+
+If a PC must wear items vulnerable to fire, a blessed ring of ice is necessary. Uncursed 
+rings of ice will not work, they must be blessed. Even with a blessed ring of ice, some 
+equipment destruction may occur. Blessed rings of ice seem to protect to the 92-95% level. 
+Even wearing two blessed rings of ice does not guarantee worn equipment will not be 
+destroyed, although the protection seems to go up to 99+%. A ring of ice is of course not 
+necessary if the PC wears only artifacts and items made of the higher metals. Missiles are 
+an obvious problem. It is rare to find enough arrows made from higher metals to satisfy an 
+archer in the ToEF, for instance. Even rocks are vulnerable to the heat, sometimes 
+exploding. Non-artifact slings, bows and crossbows are liable to be burnt or melted. If the 
+PC is not doomed or cursed, fireproof blankets (particularly blessed ones) are sufficient 
+to protect the PC's pack. Fireproof blankets do not protect worn equipment, of course. If 
+the PC is doomed or cursed, for instance from wearing the Crown of Science, which grants 
+fire immunity, fireproof blankets seem to disintegrate much more readily.
+
+This whole situation is very vexing, because the ToEF contains a very nasty collection of 
+monsters and the PC naturally wants to bring his best equipment with him, but at the same 
+time does not want it destroyed.
+
+One thing to remember - rings are never destroyed until the gauntlets worn over them are 
+destroyed. Since the artifact elemental gauntlets are available to all PCs, this provides a 
+foolproof means of protecting nonartifact rings.
+
+The objective in the ToEF is of course the Chaos Orb of Elemental Fire. It is held by the 
+Ancient Chaos Wyrm who can be found on the top level of the ToEF. This level is typical of 
+the levels containing elemental temples. The temple itself occupies half of the level and 
+is disconnected. It can only be reached by digging. Teleportation is not allowed on the 
+level. Since a PC may have his only means of digging destroyed on his way through the 
+tower, praying on the top level will result in a pickaxe gift from the PC's god.
+
+The temple itself is occupied by problematic monsters. These include fire elementals, 
+chaos servants, fire grues, fire drakes and fire demons in addition to the orb guardian. 
+The fire demons and fire grues in particular are annoying because they have a corrupting 
+melee attack with a very high to-hit. Even PCs with excellent DV will be hit eventually. 
+Taken as a whole, this means that invisibility is very, very desirable in the Fire Temple.
+
+2.19.1 The Ancient Chaos Wyrm
+
+The Ancient Chaos Wyrm holds the Chaos Orb of Elemental Fire, the key to the lower parts 
+of the CoC. It has a fire breath attack and a corrupting melee attack. In addition it is 
+able to cast confusion and an energy ray. It is able to heal its wounds. The ACW can be 
+killed in a variety of ways including brute force, although it is preferable to attack it 
+from a distance due to its corrupting melee attack. The ACW is vulnerable to cold attacks 
+(as are most of the monsters in the temple) and dragon slaying ammo. If it is killed on 
+the temple's altar, be extraordinarily careful! If the PC is visible the fire demons will 
+sacrifice him instantly. Even if the PC is invisible, fire demons who have been engaged 
+in melee will "know" where the PC is and sacrifice him. The safest thing to do is kick 
+anything dropped on the altar to an adjacent square before picking it up. The elemental 
+altars can only be converted by champions of Balance or Order, which means PCs going for 
+an ultra ending cannot convert them early in the game, before retrieving the Medal of 
+Chaos.
+
+An examination of the Ancient Chaos Wyrm with a blessed stethoscope reveals:
+
+You examine the Ancient Chaos Wyrm. Diagnosis: Level: 1, DV: 50, PV: 20, Hits: 209, 
+Attacks: 3, Damage: 15-51. Speed: 98.
+
+
+2.20 The Ruined City
+
+The Ruined City is the entrance to the Minotaur Maze, found in the far western central 
+part of the wilderness map.
+
+Upon entering the wilderness square containing the ruined city, the following messages 
+are generated:
+
+"As you advance into the ruins, you catch a short sight on some strange huge figure...
+
+With fluid motions it disappears into the ruins!
+
+Something seems to be waiting for you...
+
+You enter the ancient street of a long-dead and even longer-forgotten city.
+
+Various trees and shrubs have overgrown the monuments of a former civilization. Strange 
+unknown runes cover what remains of ancient palaces and buildings. Some forboding evil 
+seems to lurk beneath the peace of death emanating from this strange place."
+
+A map of the ruined city reveals the strange huge figure to be a minotaur mazelord 
+guarding the entrance to the minotaur maze hidden behind a secret door:
+
+
+..................==...................................#........................
+..................==...................................#........................
+..................==...................................#........................
+........T........==..##..#..................TTT........#....T......T............
+..........###.##==.....T......T....TTT...TTTTT##......##.......T.........T......
+....T.....#....#==.......#..T....====TT........#......#.......#######...........
+..........#....#==.......#.....===..====.......#......#....T........#...........
+..........##.###==...#####...===T......====....###..###.............#..T........
+........TTTT....==...T......==........T...====.....T................#...........
+......TTTTT.....==.......T.==......T.........====.......T.......###.#...........
+...T.....TTTT.........======......######........=..=.......TT...........TT......
+.......######...==#..#====..#######....#.T.........====.....TT.T................
+.......#....#.T..=####=.....#.M#>#.....#....######....====....T.....####........
+.....T.#....#....======........####.........#......T.....===....T.#.............
+.......#....#......==....T..#..........#....#..........T...===....#.....#.......
+.......#..#.#.......T.......#######....#...T#....#...........==...#.....#.......
+...T..........T..........T........######........T.......T.....==....##..#.......
+..............................................................==................
+..............................................................==................
+..............................................................==................
+
+The minotaur mazelord guarding the entrance may or may not be hostile. This may be 
+alignment dependent (he seems to be hostile to lawfuls), among other things and 
+needs further investigation.
+
+There is a lower experience level limit in order to enter the Minotaur Maze, which seems to 
+be experience level 22. PCs with lower experience level are frightened away. Likewise, 
+there is an upper limit, which seems to be experience level 30. The entrance to the 
+Minotaur Maze is covered by an immovable stone block at this point. Given the extremely 
+nasty nature of the Minotaur Maze, the player is well advised to have the PC as experienced 
+as possible before entering.
+
+The objective is to find the Minotaur Emperor on level seven of the maze. He holds the 
+artifact Axe of the Minotaur Emperor.
+
+
+2.20.1 The Minotaur Maze
+
+The mazes are very challenging, with false doors, false staircases, living walls, and a 
+variety of minotaurs, including minotaur mazemasters, mazelords, magi and kings. There is 
+no random food generated in the mazes. The minotaurs leave corpses, but they are not good 
+to eat because they cause confusion. Minotaurs may drop food when killed. The mazes are 
+heavily trapped. The down staircases may lead to false levels, which must be explored only 
+to find that there are two up staircases with no down staircase. Eventually the PC will 
+find a true level six with a down staircase.
+
+It is very obvious when the true bottom of the maze has been reached, because the following 
+level message is generated:
+
+"You feel that this maze level is special in some respect... its convoluted tunnels remind 
+you of the brain tunnels of some sinister power lurking beneath the surface of the world 
+and ready to strike at any intruders!"
+
+A representative layout of the final level of the minotaur maze is shown here:
+
+
+###############################################################################
+#.#.....#...#.......#.....#.............#.#.....#.....#.#.....#...............#
+#.###.#.#.#.#.###.#.###.#.###########.#.#.#.#.#.#.#.#.#####.#.###.#.#########.#
+#.....#.#.#...#.#.#.#...#.....#.......#.#.#.#.#.#.#.#.......#...#.#.#.....#...#
+#######.###.###.#.#.#.#######.#.#######.#.#.#.###.#.###########.###.###.###.###
+#.....#...#.....#.#...#.......#.#.....#.#...#.....#.....#.....#...#...#.#...#.#
+#.#.#####.#######.###.#######.#.###.#########.#########.#.###.###.###.#.#.###.#
+#.#.#...#.#.....#...#.#.....#.#...#.#.......#...#.....#.#.#...#.#...#.#...#...#
+###.#.#.#.#.###.###.###.###.#.#.#.#.#####.#.#####.###.#.#.#.###.###.#.#.#######
+#.#.#.#.#...#.#...#.......#.#.....#.......#.......#.#.#...#...#.....#.#...#...#
+#.###.#.#####.###.#.#######.#######################.#.###.###.#.#####.###.###.#
+#.#...#.........#.#...#...#.#......#......#.....#...#...#.#...#.#.......#...#.#
+#.#.#########.###.###.#.#.#.#####.#####.#.###.###.#.###.###.###.#######.###.#.#
+#.#...#.....#.....#...#.#.#.....#.#.....#.#...#...#...#.#...#.#.#.......#...#.#
+#.###.#.###.#######.###.#.#####.#.#.#####.#.#.#.#####.#.#.###.#.#.#######.###.#
+#...#.#.#...#.....#...#.#...#...#.#.....#...#.#.....#.#.#.#...#.#.#.....#.#...#
+#.#.#.###.#.###.#.#####.###.#.#M#M#####.###########.#.#####.###.#...###.#.#####
+#.#.......#.....#.......#.....#.M.....#..........@..#.............#...#.......#
+###############################M#M#############################################
+                              #####
+
+
+2.20.1.1 The Minotaur Emperor
+
+The Minotaur Emperor is the central 'M' in the above map, surrounded by minotaur mages 
+which are able to cast confusion. When the Minotaur Emperor is killed, he drops several 
+items which may vary. One example is:
+
+
+    blessed axe of the minotaur emperor (+12, 3d20+16) [-6, +4]     [1200s]
+    uncursed potion of strength                                        [4s]
+    uncursed potion of cure corruption                                 [2s]
+    blessed potion of cure corruption                                  [2s]
+    uncursed spellbook of Slow Monster                               [100s]
+    uncursed minotaur emperor corpse                                 [240s]
+    uncursed topaz                                                     [1s]
+
+
+A blessed greater ID of the Axe of the Minotaur Emperor reveals:
+
+---------- blessed axe of the minotaur emperor (+12, 3d20+16) [-6, +4]---------
+
+It is an artifact.
+
+When worn it modifies DV by -6 and PV by +4.
+When used in melee combat it grants a +12 bonus to hit and causes 3d20+16
+points of damage. When used as a missile it grants a -12 bonus to hit and
+causes 3d16+6 points of damage.
+
+It is very good at scoring critical hits in melee. 
+It grants resistance to confusion attacks.
+
+-------------------------------------------------------------------------------
+
+Note the weight of the artifact axe. The weight of the artifact, combined with the 
+extraordinary difficulty of the mazes, makes most players completely ignore this location. 
+It is in no way necessary to complete the game. This dungeon is one that may (hopefully?) 
+be substantially revised in future versions of ADOM.
+
+
+2.21 The High Mountain Village - part two
+
+
+2.21.1 The Stone Giant Lord
+
+Sometimes there is a Stone Giant Lord generated outside the High Mountain Village walls 
+near where the PC enters from the wilderness. Needless to say, this can be a nasty surprise 
+for a relatively low level PC who has descended through the Unremarkable Dungeon at the 
+beginning of the game. If you can't run away, an attack with berserk tactics may work if 
+the PC has a decent weapon. He is vulnerable to magic.
+
+
+2.21.2 Hawkslayer
+
+The burly adventurer in the High Mountain Village will join a PC and act as a companion 
+providing certain criteria are met: the PC must not be chaotic and the player (*not* the PC) 
+must know a secret password ("Iceberg"). The only way to learn the password in ADOM itself 
+is drinking from pools, and many players are reluctant to do so. Some players may remember 
+Hawkslayer from the computer RPG "Bard's Tale III". The password is the same in that game.  
+There is also an experience level requirement which is uncertain.  Level 25 PC's have 
+successfully gotten Hawkslayer as a companion, so that stands as a maximum level for the 
+requirement at the moment.
+
+Hawkslayer is not super-buff as companions go, but he is not bad.
+
+On arriving at the HMV with a level 15 PC and using a blessed stethoscope on him, 
+Hawkslayer was found to be:
+
+You examine Hawkslayer, the burly adventurer. Diagnosis: Level: 1, DV: 24, PV: 15, 
+Hits: 355, Attacks: 1, Damage: 14-50. Speed: 120.
+
+A report from the Russian ADOM newsgroup on September 14th, 2000 described a PC who was 
+very careful with Hawkslayer to start, training him in the upper levels of the CoC, 
+proceeding to the Big Room then deeper into the CoC until he was able to take on molochs 
+and balors. Using a blessed stethoscope on him at that point gave the following:
+
+You examine Hawkslayer, the burly adventurer. Diagnosis: Level: 110, DV: 96, PV: 36, 
+Hits: 805, Attacks: 11, Damage: 50-86. Speed:120.
+
+Quite impressive.
+
+Hawkslayer uses arrows which can be retrieved for the PC's own use.
+
+
+2.21.3 Ratling guardians
+
+Two ratling guardians are found at the entrance to the city. They seem to be flavor 
+elements more than anything else and play no real role in the plot of the game.
+
+
+2.21.4 Leggot
+
+Leggot is the shopkeeper in the High Mountain Village. He may offer better prices than 
+Waldenbrook, the shopkeeper in Dwarftown, both when selling items and buying items. He does 
+not share Waldenbrook's hatred of dark elves.
+
+
+2.21.5 Ogre guardian
+
+Like the ratling guardians, the ogre guardian plays no real part in the game. He guards a 
+prison in the High Mountain Village which holds a few monsters. The ogre guardian does not 
+react if the PC opens the jail and kills the monsters within.  If the ogre guardian becomes 
+hostile, he is capable of throwing huge rocks at the PC.
+
+
+2.21.6 Gaab'Baay
+
+Gaab'Baay is of critical importance for those attempting a special ending. She assigns 
+several quests; the reward is the Medal of Chaos, which is required to pass through the 
+Chaos Gate. She will assign quests only to PCs with chaotic alignment. She will not assign 
+quests until the demented ratling has been given six artifacts ("Talk to the mutated 
+one."). Her quests are as follows: 1) Bring her the skull of a giant boar. An annoying 
+quest. Giant boars can only be found randomly in the wilderness, and rarely leave skulls, 
+even for PCs that have Food Preservation at 100. This quest can literally take months of 
+game time to complete, causing elapsed game time to exceed the 90 day point at which time 
+background corruption starts to accelerate. 2) Bring a potion of cure corruption. These can 
+be obtained from Guth'Alak (see section 0.10.2.1.1). It is worth taking the time to get one 
+from Guth'Alak, since they are very rare otherwise. 3) Bring the corpse of a farmer. Quite 
+often a farmer will be wandering around the outside of the High Mountain Village. Otherwise 
+they can be found in Terinyo. It is widely believed that farmers will never leave a corpse 
+until this quest is assigned, and leave a corpse every time after this quest is assigned. 
+So if you are playing a wild chaotic, use some restraint and don't wipe out all farmers 
+just because they are easy to kill. It might also be prudent to kill off the stone giant 
+lord outside the HMV if one is generated. You don't want him killing off your farmer. There 
+has been a recent report (October 13th, 2000) concerning a farmer that did *not* leave a 
+corpse after receiving this quest, so it may be a matter of strong probability rather than 
+certainity. 4) Bring a scroll of danger. Another scarce item. If the PC finds one, it 
+should be put somewhere safe until it is needed. 5) Bring a wand of monster creation. Note 
+that a cursed wand of monster creation will work, but one with zero charges left will not. 
+After successfully delivering all of these items, Gaab'Baay produces the Medal of Chaos. 
+Note that it, like all parts of the Chaos Trinity, corrupts the PC merely by carrying it. 
+Leave it somewhere safe until it is needed.
+
+
+2.21.7 The Oracle
+
+The Oracle dispenses advice to PCs with all three parts of the Chaos Trinity about 
+how to become a chaos god. However, it is no longer necessary to have all three 
+parts of the Chaos Trinity to enter the Chaos Gate. Interaction with the Oracle in 
+ADOM 1.0.0 has not been thoroughly investigated.
+
+The corpse of the Oracle grants +6 to Learning but also curses and dooms the PC.
+Beware of attacking the Oracle.  She is capable of casting Death Ray and shares the 
+properties of karmic beings, although she is not named as such.
+
+
+2.21.8 The malicious doctor
+
+The malicious doctor has a flesh golem companion for sale for 25,000 gold pieces. He plays 
+no other part in the game. From the reports of those who have acquired this companion, it 
+is not worth the money. If the player wants this companion, it is worth luring the malicious 
+doctor to the SMC before buying it. In that case it is generated with much more experience.
+
+Note that the malicious doctor will not sell this companion to lawful PCs.  When lawful 
+PCs 'C'hat with him, the game responds with "The malicious doctor eyes you with 
+suspicion.  "My office is closed." "
+
+
+2.21.9 Ratling traders
+
+Ratling traders are occasionally generated in the High Mountain Village. Like many other 
+random monsters in the High Mountain Village, they are quite often hostile. If the PC needs 
+food at this point, don't kill hostile ratling traders. They may eventually become 
+nonhostile and therefore a source of food.
+
+
+2.21.10 Hidden locations
+
+There are three hidden locations in the High Mountain Village.  Gaab'Baay is located in 
+a hidden passageway along the eastern wall.  Two scrolls are located in the doorless 
+room in the center of the northern wall.  The only way to enter this room is with 
+teleportation.  Note that teleportation traps may be conveniently generated adjacent to 
+and within the room:
+
+  #######
+  .#.?.#.
+  .#^..#.
+  .#####.
+  ^......
+
+The carets represent locations where a teleportation trap may be created.  A teleportation 
+trap can also be created on the square where the scrolls lie, of course.
+
+The two scrolls are a cursed scroll of chaos resistance and a "strange 
+message".  See section 5.2 for the contents.  The final location is a hidden passage in 
+the western wall.  It contains a potion of ultra healing and a staircase behind yet 
+another hidden door.  The staircase leads to the northern central part of the wilderness.
+
+
+2.22 The Rift
+
+The Rift is a wilderness location found in the northwestern mountains, southeast of the 
+dungeon containing the Tomb of the High Kings.  The PC must meet several requirements in 
+order to enter it.  A climbing set is required (although ADOM 1.0.0 and g16p2, at least, 
+have a bug which causes this to be ignored) and the Climbing skill must be at 100.  The PC 
+must be at least experience level 18.  If the experience level requirement is not met, the 
+game responds with: "You do not feel experienced enough for this daunting task."  Willpower 
+must be at least 20 OR Perception must be less than six. 
+
+If all these requirements are met, the PC will still most likely fall on the way down the 
+Rift, destroying some equipment in the process. Falling can be avoided by having the 
+extremely thin and nimble AND the very light corruptions. This needs further testing. It 
+may be that only the very light corruption is required, as per the fortune cookie message 
+"Being light as a feather makes you very rifty." Alternatively, it may be that only 
+hurthlings can avoid falling with only one of these corruptions, similar to the entrance 
+requirements for the Quickling Tree. There are reportedly 27 luck checks on the way down, 
+whatever that actually means. Being burdened or strained is probably not a good idea. A 
+level 50 PC, not cursed or doomed, with intrinsic Lucky and Fate Smiles, wearing the ankh 
+and the Ring of the Master Cat, unburdened, but without the requisite corruptions, still 
+fell. It is not possible to bring artifacts only into the Rift, since a climbing set (and 
+probably food, although enough *might* be found) is required. Therefore, it is a good idea 
+to store the PC's extremely valuable items, such as scrolls of chaos resistance, in a safe 
+place before entering the Rift. It is also a good idea to bring every bit of junk, such as 
+missiles that do not stack, low quality armor and weapons, scrolls of ill fate, cure 
+blindness and the like, low quality amulets, etc. along. These items are fodder for the 
+RNG, which hopefully will destroy them rather than valuable equipment. Do not be too 
+conservative and leave *all* good equipment behind, because the monsters in the Rift 
+dungeon and especially the Sinister Library of Niltrias can be *very* nasty. Hopefully by 
+this point, the PC has some decent artifact armor and weapons. A corollary is not to rush 
+into the Rift too soon.
+
+It is not necessary to visit the Rift dungeon or the Sinister Library of Niltrias to 
+complete the game, and many who play non-spellcasters completely ignore it.
+
+The whole point of entering the Rift is to gain access to the Sinister Library of Niltrias 
+- see below.
+
+
+2.22.1 The Rift dungeon
+
+After the PC climbs (falls) down the Rift, he arrives in the Rift dungeon on RL3. The 
+dungeon consists of nine levels, which are numbered in the opposite sense compared to every 
+other dungeon in the game (the Tower of Eternal Flames is an exception) - RL1 is the 
+bottom, while RL9 is the top. This dungeon features dangerous monsters - greater chaos 
+servants, chaos mutants, elementals, greater elementals and higher level quicklings are not 
+uncommon. Two up staircases will be found on RL5 or RL6. One leads to the higher Rift 
+dungeon level, the other leads into the wilderness in a pass inside the unclimbable 
+mountains. A short journey, which again requires a climbing set, leads to the entrance to 
+the Sinister Library of Niltrias.
+
+
+2.22.1.1 The ratling dealer
+
+If the PC was unlucky enough to have his climbing set destroyed during the descent through 
+the Rift, another is available from a unique ratling dealer on the bottom level of the Rift 
+dungeon. This NPC is nonhostile in an otherwise rather hostile environment. As a 
+consequence, it is quite possible for him to be killed by other monsters. If the PC needs a 
+climbing set from him, find him quickly and be prepared to pay 50,000 gold pieces for it.
+
+
+2.22.2 The Sinister Library of Niltrias
+
+The layout of the Library is as follows:
+
+
+         #########################################        #######
+         #..............................##......"#      ###.....###
+         #..............................##.##....#     ##...#.#...##
+      ####.................................##....# #####...........#####
+      #.................................#####".."# #"....#."...".#...."#
+      #.##..............................#   ###### #####...........#####
+#######.##.#.#.#.#.#.#.#.#.#.#.#.#.#.#..#          #"....#."...".#...."#
+#...G##.##..............................#          #####...........#####
+#.<.....###.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#          #"....#."...".#...."#
+#....#### #.#.#.#.#.#.#.#.#.#.#.#.#.#.#.#          #####...........#####
+###.##    #"#"#"#"#"#"#"#"#"#"#"#"#"#"#"#          #"....#."...".#...."#
+  #.#     ###############################          #####...........#####
+  #.####################################################..."..."...#
+  #........................................................#...#...#
+  #################################################1#####.........##
+   #.."##"......"##"......"##"............##"."####.#   ##.......##
+   #]...1...##".......##"......"##"."##"............#    #########
+   ##################################################
+
+The numeral 1 represents secret doors.
+
+The ghost librarian 'G' is nonhostile (see the section below).
+
+There is a certain amount of variation in the items found in the Library; this map was 
+generated with a wizard PC. The items in the eastern chamber and the large main room will 
+be scrolls rather than spellbooks for non-spellcasters. This is a good thing, since scrolls 
+are useful for all classes, while non-spellcasters are often unable to read spellbooks 
+efficiently or at all. Note the ] in the southwest corner. It is a climbing set, which is 
+required to get back into the Rift dungeon. Equipment may be destroyed while in the 
+Library, so it is prudent to leave the climbing set where it is until the PC is finished 
+with the rest of the Library. There will be monster guardians found on top of every 
+spellbook or scroll. These monsters can be anything and are uniformly dangerous. On a 
+recent trip through the Library, a master lich, ancient dragons, a quickling lord, a frost 
+giant jarl, a stone giant lord, a moloch and a mimic hivemind were found among others. It 
+is wise to bring dragon slaying ammo in case an ancient karmic dragon is generated. 
+Likewise, demon slaying ammo or phase daggers are very nice to have in case a (greater) 
+moloch is generated.
+
+Wizards who visit the Library will find every spellbook available in the game, including 
+Wish. Necromancers, for instance, will not. Necromancers find scrolls in the two large 
+rooms and spellbooks in the small northeast room and the hidden passageway. The exact 
+details of what class finds Spellbooks vs scrolls is being investigated. Spellbooks can be 
+destroyed while in the Library (by blue dragons, for example), so be careful with rare 
+spellbooks.
+
+
+2.22.2.1 The Ghost Librarian
+
+The Ghost Librarian is nonhostile and plays no role in the game under most circumstances. 
+However, he can be the source of an important artifact, the Weird Tome. In order to obtain 
+the Weird Tome the PC must have Stealth at 100 and spend at least 2000 turns in the Library 
+without 'C'hatting to monsters. Currently, wizards, for instance, can cast spells 
+throughout their combat in the Library and, after vanquishing the monsters, read some 
+spellbooks to pass time before 'C'hatting to the Ghost Librarian. At that point the Ghost 
+Librarian will reward the PC with the Weird Tome, which can be exchanged for five cursed 
+scrolls of chaos resistance courtesy of the Mad Minstrel. It is impossible to read the 
+weird tome. The message generated is: "This book is filled with strange texts written in 
+weird letters. You have difficulties concentrating on the text. After a while you manage to 
+focus your sight on the text. The text contains a strange collection of tunes, songs and 
+instrumental pieces. It seems to be some kind of code, hinting at some ancient powerful 
+magic, a scroll or something like that... You fail to decipher it." High level wizards, for 
+instance, who attempt to read the Weird Tome are Confused for a considerable length of time. 
+Do not try it in a potentially dangerous location!
+
+
+2.23 The Stone Circle
+
+The Stone Circle is located in the northwest part of the wilderness map. It can only be 
+entered by PCs who have satisfied the demented ratling (section 2.5.8). Furthermore, it can 
+only be entered during the night of Darknight. Determining exactly when it is available is 
+not an exact science. In practice, the PC stands on the circle as soon as it is Darknight 
+and repeatedly presses > until eventually he enters.
+
+The Stone Circle is located on a plain. There is an entrance tunnel guarded by two dwarven 
+chaos knights who should not be a problem for a PC at this level. The doorway into the 
+circle is guarded by two annihilators, who can annoyingly destroy the PC's equipment. 
+Ideally the PC should be invisible and destroy them from a distance. The alternative should 
+be to hit them as hard as possible with the best melee attack available.
+
+There is a unique pool inside the Stone Circle.  Drinking from it results in the 
+message "You feel altered in an eerie way."  It always causes ~2 corruptions.
+
+
+2.23.1 Keriax
+
+The circle itself contains Keriax, the multi-headed chaos dragon in the center with eight 
+writhing masses of primal chaos scattered about the walls of the room. It is important to 
+dispatch Keriax quickly, as he has a variety of very nasty attacks. He is able to breathe 
+bolts including corrupting bolts, confuses the PC and drains stats if engaged in melee. He 
+is vulnerable to the Acid Ball spell and dragon slaying ammo. Potions of blindness work on 
+him. Killing him from a distance is highly recommended. His corpse grants large increases 
+to Strength, Toughness, Mana and Perception, but also causes *massive* corruption - about 
+8 corruptions. If he is killed late in the game and a PC needs corruptions for an Avatar 
+of Balance or Ultimate Chaos God ending, this is one way to get them quickly.
+
+The objective here is the Crown of Chaos, which Keriax holds. As with all parts of the 
+Chaos Trinity, it corrupts the PC merely by carrying it. Put it someplace safe until it is 
+needed.
+
+
+2.24 The Quickling Tree
+
+The Quickling Tree can be found in any portion of the forested wilderness west of the 
+river.  This means that a PC should 's'earch for it in a convenient place, such as next 
+to the Mad Minstrel's clearing.  It can be found at any time, but to actually enter it 
+usually requires two corruptions: the extrememly thin and nimble and the very light 
+corruptions. This is because the PC must weigh no more than ten kilos to enter the tree. 
+Hurthlings are often an exception: they can enter the quickling tree with only the thin 
+and nimble corruption (which is required under any circumstances).  Also, the weight of 
+the PCs inventory is limited to 160 stones.  This means eternium plate mails, crowns of 
+leadership and the like are not going to be useful.  In fact it is worth picking up any 
+light armor the PC finds throughout the game and identifying all of it at some point in 
+case any of it is useful in the quickling tree.
+
+Quicklings use hand crossbows and dark elven quarrels as missile weapons and drop them as 
+they are killed. Some prior experience with crossbows is therefore useful. Quicklings fall 
+fairly easily in melee, with missile weapons or using magic. They are just very, very fast.
+
+The whole point of entering the quickling tree is to eat the corpses of the quicklings as 
+they are killed, which provides speed bonuses. There are plenty of corpses generated for a 
+PC with a good Food Preservation skill, so an amulet of hunger or stomacemptia herbs are 
+useful in the tree. As would be expected, the higher level quickling corpses give better 
+speed bonuses, so the quickling lord corpses should be eaten first. The tree contains a 
+quickling king and quickling queen, whose corpses provide the best speed bonuses if they 
+are generated, but they also shorten the PC's life span. This is where those potions of 
+longevity come in handy for races with relatively short life spans.
+
+The quickling queen stands on a pair of artifact boots, the Boots of Great Speed, greater 
+identified as follows:
+
+---------------- boots of great speed [+5, +0] (+30 spd)--------------
+
+When worn it modifies DV by +5 and PV by +0.
+When used in melee combat it grants a +0 bonus to hit and causes 
+1d3 points of damage. When used as a missile it grants a +0 bonus 
+to hit and causes 1d2 points of damage.
+
+It contains the essence of Chaos and Corruption.
+It modifies your speed by +30.
+It grants bad luck.
+Wearing it makes you doomed.
+
+----------------------------------------------------------------------
+
+If it is desired, the PC may tunnel directly south from the entrance room into the room 
+containing the high level quicklings.
+
+Time passes very quickly in the quickling tree. It is not unusual to enter on day 70 and 
+find that it is day 140 upon emerging. This means the 90 day limit has passed and 
+background corruption will become faster. Ideally a PC will do the quickling tree right 
+before the final dive to the lowest levels of the CoC.
+
+
+2.25 The Infinite Dungeon
+
+The Infinite Dungeon is found in the southeastern part of the wilderness map. Prior to 
+entering it, the description is "A tiny, strangely distorted cave entry."
+
+The Infinite Dungeon (ID) is truly infinite for all practical purposes. The level number is 
+limited by some 32 or 64 bit integer value, but who really cares about that? It would take 
+many lifetimes to descend through all its levels, even assuming a PC could survive such a 
+trip, which is impossible. The danger level increases with dungeon level; any level greater 
+than 200 or so becomes ridiculous.
+
+The ID has some unique characteristics: shops, altars and pools are never generated. Every 
+dungeon level is randomly generated, so leaving a level and reentering it results in a 
+completely new dungeon level. There is one special level, the SIL, where MaLaKaI resides.
+
+According to the Mad Minstrel, the ID was originally a monument built by the powers of law. 
+The incursion of Chaos into Ancardia has twisted it into its current condition.
+
+
+2.25.1 Filk
+
+Filk is found in the ID on the level corresponding to the number of first-killed monsters 
+killed. For example if the first monster killed was a rat and 225 rats have been killed, 
+Filk will be found on I: 225. Filk is a quickling bard and the fastest quickling in the 
+game with a speed of 1500. His DV/PV is 500/0. He shares the properties of karmics although 
+he is not named as such. More about obtaining the Filk quest is found in section 4.3.1.1.
+
+
+2.25.2 MaLaKaI
+
+MaLaKaI resides in the SIL, found at about level 66 of the ID. He is a chaos knight and 
+guards the Sceptre of Chaos. The SIL is not really part of the ID. It is discovered by 
+descending through the ID normally, but once left, it can never be found again. This means 
+if a PC needs the Sceptre of Chaos, there is only one chance to get it, so be prepared. 
+MaLaKaI is quite tough. He is designed to be an opponent for characters above level 40. He 
+has a corrupting melee attack.
+
+Conclusive proof that the SIL is not part of the ID is the fact that altars are sometimes 
+generated in the SIL. These can come in very handy since MaLaKaI can be sacrificed.
+
+
+2.26 The Unicorn Quests
+
+Guth'Alak, the druid in Terinyo, will reveal the location of the Greater White Unicorn's 
+glade once the PC reaches experience level 30, regardless of the PC's alignment. He asks 
+the PC to search a beautiful park in the central forest for a good and noble creature in 
+need of help. Upon returning to the central forest, the glade appears as a green asterisk 
+near the Old Barbarian's clearing. It is described as "A beautiful park." prior to 
+entering.
+
+2.26.1 Yrruir, the Greater White Unicorn
+
+After entering the glade, Yrruir can be found teleporting around randomly. Despite the fact 
+that Guth'Alak reveals this location regardless of alignment, Yrruir generally attacks PCs 
+with chaotic alignment on sight. There have been rare and scattered reports of chaotic PCs 
+who were not attacked. When 'C'hatted with, Yrruir explains that the forces of Chaos have 
+stolen a part of his life essence and forged it into his evil counterpart, manifested as a 
+Greater Black Unicorn. Yrruir asks the PC to kill his counterpart in order to regain the 
+stolen life essence and restore his full powers. If the PC is successful, Yrruir rewards 
+the PC with an offer to cleanse all corruption *once* and only once. A player who completes 
+this quest has to carefully decide when to take advantage of Yrruir's offer. If the PC is 
+badly corrupted prior to entering the lowest parts of the CoC, it will probably be 
+necessary to have all corruption removed before the endgame. However, it is best to have 
+Yrruir remove all corruption as the last thing the PC does before leaving the Drakalor 
+Chain, if the player is concerned with receiving the highest possible score and happiest 
+future history after finishing.
+
+2.26.2 Riurry, the Greater Black Unicorn
+
+Riurry can be found in a corrupted glade just east of Yrruir's glade. As an evil chaotic 
+being, he of course offers rewards if the PC kills Yrruir when 'C'hatted with. If the PC 
+then returns to Yrruir, he is warned not to listen to Riurry's evil babbling. Killing 
+Yrruir at this point will result in a significant alignment drop, of course, but causes no 
+other noticeable effects. The PC does not lose the Lucky or Fate Smiles intrinsics, nor 
+does he gain the Cursed or Doomed intrinsics. Returning to Riurry and 'C'hatting results in 
+being rewarded with 1-2 corruptions, a blessed amulet of chaos and 5-7 uncursed potions of 
+gain attributes. The player has to decide which path to take. The potions of gain 
+attributes are a significant reward. If the player is going for an ultimate chaos god 
+ending, it seems logical to accept Riurry's quest. Other PCs may choose this quest if 
+corruption is either not a problem or desired for chaos gate entry. The alignment drop may 
+also be useful for becoming chaotic around experience level 30 in order to receive 
+Gaab'Baay's quests, for those PCs attempting an ultra ending.
+
+
+2.27 The Bug-Infested Temple
+
+100 PC deaths must be recorded in the adom.cnt file before entry will be allowed.  
+There are no experience or level requirements for entry, either for the PC or 
+in the HISCORE file.
+
+Some of the walls in the bug temple are diggable, but so many are not that it is not 
+possible to make real progress.
+
+The bug temple has been beefed up considerably with the simple addition of the 
+see invisible intrinsic for the bugs. Low (or even high) level spellcasters are 
+no longer going to be able to finish this area easily.
+
+The rewards have been toned down: only three SoCRs, six PoUH, eight SoMM. The 
+wand of fireballs has ten charges, the wand of teleportation has six charges. 
+
+The bug-infested temple consists of two parts: the bug wilderness (BUGWIL) and bug cave 
+(BUGCAV). The wilderness part's outer limits are scattered with greater claw bugs, that 
+low-level spellcasters can bolt to death (be very cautious!). Around the down staircase, 
+there are eight killer bugs.
+
+Note that both greater claw bugs and killer bugs have high speed, breed, have multiple 
+attacks and bypass the PC's PV. This means that they are what they're called - killers - 
+in melee.
+
+Eating a greater claw bug corpse increases speed, gives +3 Dx and -6 Wi. Eating a killer 
+bug corpse also increases speed, gives +6 Dx and -12 Wi.
+
+The layout of BUGCAV:
+
+
+   ##########################                            ############
+   #........................#                            #....iiiiii#
+   #.######################.##############################.###iiiiii#
+   #.#################    #.............1.....1............# #iiiiii#
+   #.#iiiiii#........#    #############.#####1###########1## #iiiiii#
+   #.#iiiiii..######.#####     ###### #.# #iiiii#      #ggg# ########
+   #.#iiiiii####ggggggggg#     #iiii###.# #iiiii#     ##ggg##
+   #.###########g.......g####  #iiii....# #iiiii#######iiiii#######
+   #....1.......g...<...g...#  #iiii##### #######].]##iiiiiii##].]#
+   ######.######g.......g##.#########           ##.##iiiiiiiii##.##
+        #.#    #ggggggggg##...#               ####...............####
+    #####.#    #####.########.#               #]#####i..i.i..i#####]##
+    #iiiii#  #######...#    #.########        #..........]..........]#
+    #iiiii#  #iiiii###.#    #...iiiii#        #]#####i..i.i..i#####]##
+    #iiiii#  #iiiii....#    ####iiiii#        ####.......i.......####
+    #iiiii#  #iiiii#####       #iiiii#          ##.##i..ggg..i##.##
+    #######  #iiiii#           #iiiii#          #].]#####]#####].]#
+             #######           #######          #####   ###   #####
+
+
+The 'g's are greater claw bugs and 'i's are killer bugs. ]'s represent named marble statues. 
+The numeral 1 represents secret doors. Teleportation doesn't work in BUGCAV.  All the 
+marble statues can be picked up and broken, like normal ones. However, there's another 
+meaning to them; reading. They're in place to honor the prerelease testing group of version 
+1.0.0. Here's a compilation of what they all mean and what you get from them. The format for 
+the list is: real name of tester - statue text - reward for breaking the statue, besides 
+rocks
+
+Thomas Biskup - "Bassuk Thimosp, Human wizard, who slaughtered the fearful experience 
+                 drainer of Prr'rlse." - nothing
+
+Stephen Mackey (Karkadinn) - "Matsep Cheyken, Troll Assassin, who dedicated his life to 
+                              harvesting the fish of Vinooresen." - barbed trident of 
+                              hunting (+2, 3d5+5)
+
+Markku Rikola - "Molkar Ur-Yack, the Orcish Elementalist, who unraveled the secret of the 
+                 legendary Ball of Hellfire, unfortunately slaughtering himself in the 
+                 process." - wand of fireballs (10 charges)
+
+Olli "Shader" Juhala - "Da Sehr Jhuala Liol, Dark Elven Beastfighter. He was unexepctedly 
+                        engulfed by the primal chaos of sorcerer coined." - 3 * scroll of 
+                        chaos resistance
+
+Adrian Bancilhon - "Raidan Nichloban, Gray Elven Barbarian. Slow of tongue, Slow of speech, 
+                    The healing arts, He helped to teach." - 6 * potion of ultra healing
+
+Andy Williams - "Malawi Syldin, Dark Elven Ranger, who opened the lost door of Mixyip Tor." 
+                 - wand of door creation (100 charges)
+
+John Rowat - "Wor Janoth, Hurthling Mindcrafter. Explorer of the Lost Volcano." - 8 * 
+              scroll of magic mapping
+
+Julian Day - "Yali Na Jud, Dark Elven Merchant, who collected the orbs before being crushed 
+              by a thousand tons of rock." - padded elven chain mail of resilience [+0, +9]
+
+Paul Nimmo - "Apul Omnim, the Male Human paladin. Finder of the sightless path." - vigilant 
+              adamantion plate mail of travelling (-2, -4) [-2, +11]
+
+Teemu Kokki - "Tuok Mekkei, Dwarven Ranger, who took part in the expedition where the 
+               mysterious experience drainer was first discovered." - 12 * winged quarrel 
+               of slaying
+
+Olivier Benard - "Dervi Albeiron, Human Paladin. He joined the forces of Law against the 
+                 foul beasts of G'ubs." - lawful 2HS of devastation (+3, 5d10+8) [-1, +0]
+
+Aaron Dutton - "Anora Tnod't, Troll Paladine. Lurker who was last to observe a dungeon 
+                collapse caused by a writhing mass of primal chaos." - holy heavy club of 
+                devastation (+3, 5d10+8) [-1, +0]
+
+Conrad Brekke - "Candor Kerbek the Trap Eater. Dark Elf Assassin. Who devised the devious 
+                 deathmaze of the Assassin's Guild." - wand of teleportation (6 charges)
+
+Joni Toivanen - "Janoi Netovi, the Human Barbarian, who was seriously ill while others 
+                 slaughtered gubs." - 12 * crystal of health
+
+Note that some of the rewards' stats may vary and that they are all *cursed*. However, those 
+potions of ultra healing, scrolls of magic mapping and especially the scrolls of chaos 
+resistance are a gift that makes visiting the Bug Cave very worthwhile.
+
+There is one more statue, an "unfinished statue of an unquestionably famous hero" in honor 
+of Raymond Martineau. No reward for breaking him down, though.
+
+Breaking all the statues stops the breeding of the bugs and results in an appropriate line 
+in the accomplishment list at the end of the game.
+
