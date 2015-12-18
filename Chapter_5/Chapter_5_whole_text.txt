@@ -1,0 +1,52 @@
+5.                        UNRESOLVED MYSTERIES
+
+
+5.1 Kherab's third quest and the reward
+
+When you've done the first two quests for Kherab, the dwarven artificer in Darkforge, he 
+tells you to "be patient, more will have to be done soon". However, he will never assign 
+the third quest, even to experience level 50 characters who are ready to close the chaos 
+gate or attempt an ultra ending. From scanning the executable, reference to a "spear of 
+raw steel" has been found, seemingly a third quest reward along with the amulet of raw 
+steel and shield of raw steel now available.
+
+5.2 The Scroll of Omnipotence
+
+In the secret compartment of the High Mountain Village, there's a message that reads:
+
+"Dear Lubaf, I am sorry to disappoint you but you won't be able to find the Scroll of 
+Omnipotence in this place. I have hidden it more effectively. You will need to find the 
+red rooster at dawn. Then you'll encounter the final challenge. 
+
+With passionate hate,
+Alhacrast, Overlord of Jak-Nagiur."
+
+This may be what Khelavaster refers to as the foolish legends that built up around the 
+quest for the crumpled scroll and the Trident of the Red Rooster.
+
+5.3 The Red Rooster Inn
+
+The Red Rooster Inn is mentioned in the executable and is probably a red herring. It was 
+thought in earlier versions of ADOM that the innkeeper would produce the Trident of the 
+Red Rooster in the Red Rooster Inn at dawn.
+
+5.4 The Volcano
+
+There is a volcano mentioned in the executable, but no character has ever found such a 
+location. It may be a remnant left over from earlier development of ADOM, possibly 
+designed to be the location where the Chaos Orb of Elemental Fire could be found prior 
+to implementation of the Tower of Eternal Flames.
+
+5.5 The Weird Tome
+
+The Ghost Librarian in the Library of Niltrias demands silence.  In practice, this 
+means the PC must spend a certain amount of time in the Library without speaking.  
+Spellcasting is allowed.  After spending the required number of turns (unknown, but 
+well spent reading spellbooks) without speaking, upon 'C'hatting with him, he gives 
+the PC the weird tome. He instructs the PC to deliver it to the Mad Minstrel, who will 
+in turn reward the PC with five cursed scrolls of chaos resistance.
+
+The mystery about the book is the fact that nobody has managed to read it.
+
+See section 2.22.2.1 for more details about the Ghost Librarian and the weird tome.
+
