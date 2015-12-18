@@ -1,0 +1,950 @@
+3.                        LATE GAME STRATEGIES
+
+
+3.1 The wall of flames
+
+A wall of flames is encountered around D: 27. Even if the PC has fire immunity, it cannot 
+be passed without the Chaos Orb of Elemental Fire. The Orb is found in the Tower of Eternal 
+Flames. The wall of flames forces the player to retrieve it before proceeding. See section 
+2.19 for more on the Tower of Eternal Flames.
+
+
+3.2 The Eternal Guardian
+
+The Eternal Guardian is found one or two levels before the Casino. He guards the down 
+staircase on the level. He only allows peaceful passage of PCs if they are wearing the Ring 
+of the High Kings, obtainable from the Tomb of the High Kings (section 2.12). It is 
+definitely possible to pass him without the ring, although it presents special problems. 
+The obvious tactic of teleporting him away from the stairs does not work, as he is 
+resistant to teleportation. Trying to kill him in melee or with missiles is more or less 
+pointless, since he reincarnates even if the PC manages to kill him, which is very 
+difficult. If a PC wants to pass him without the RotHK, it is best to make him angry such 
+that he chases the PC, followed by a quick teleport to the down stairs and descent.
+
+Note, however, that passing the Eternal Guardian without the Ring of the High Kings means 
+that the shortcut to the surface through Darkforge (see section 3.4) will not work in the 
+down direction - a distinct disadvantage.
+
+
+3.3 The Casino
+
+The Casino is found on D: 30 or D: 31. The layout is as follows:
+
+
+#####                                 ######
+#...#                                 #...@#
+#.<.###################################.>.#
+#.../.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.....####################################
+#####@................................@####![(~/=!![%[?[%%%[/*'%%%%(%([]!%%(/#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$..####[("%?%[?"[[=[%](!%*[*%(\"*([?]%((?#
+    #................................../.##[/[*[[=*[([]="[%([[!][[[%%[(!]![=(#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#.##%%[*[["[["(['['(('?""[[%/%!\]!/[*/#
+    #................................../.##(*/[(['!"%[[?/[!\%*[*/%"%(*""/[("(#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#.##*!((%]?[%!=[([(/?'[(/(%[!/!/(!%?\\#
+    #................................../.##.[}"[((['!"*([/[(?=[[]*[[%[?!!?[!%#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#....[!(%%(%*~=]'/![?*!!?!!!([!=%?"!%!#
+    #................................../.##@[}%!%?[!?"\/[(??[(%[*![[[("%?([(%#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#.##[}%(.('*"?}["[%*(??!"?%*"!""?(}"/'#
+    #................................../.##!%("/}??%\}"[%!((([[}(*[/?\"'[=%\%#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#.##*([%![}\%%\(!?[%((%"[?}{!/=[%"\[%(#
+    #................................../.##%[(['(%([[\[([]='%!/{((%/\!(%*(][(#
+    #.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.@#.##([*(([[%%[%}!?/((*"[[?['?""[]'?%[[#
+    #................................../.#####################################
+    ######################################
+
+
+The guaranteed monsters found here are casino guards (the @s outside the Great Gift 
+Shoppe), a big casino guard (guarding the down staircase) and the shopkeeper (the @ 
+inside the Great Gift Shoppe). The $s in the body of the Casino are not piles of gold, 
+but rather slot machines. There will be a number of non-hostile monsters wandering 
+about the Casino and the Great Gift Shoppe.
+
+It is possible to win essentialy unlimited amounts of gold from the slot machines. 
+Intrinsic Dooming, Cursing, Lucky and Fate Smiles have no effect. Wearing items that 
+grant Luck (the hidden property) or the Lucky/Fate Smiles intrinsics make no difference. 
+The fastest way to accumulate money is to choose a machine that costs 24 gold pieces to 
+play and 'h'andle the lever. Place a heavy object on the spacebar of your keyboard. 
+Check back after five minutes or so by picking up the gold on the floor. There should be 
+quite a pile.
+
+As long as the technique above is used - simply leaving the spacebar depressed - all of 
+this gambling will take place during a single game turn, so the PC will not be spending 
+hours of game time in the Casino getting corrupted. This is after all D: 30 or D: 31, 
+moderately deep in the CoC. So resist the temptation to check on your winnings every 30 
+seconds! ;-)
+
+The payout from the slot machines follows a precise formula, shown below: 
+
+Item               Two alike        Three alike
+----               ---------        -----------
+
+kobold                  1x                 1x
+goblin                  4x                 8x
+hobgoblin               9x                27x
+gnoll                  16x                64x
+ogre                   25x               125x
+wizard                 36x               216x 
+ettin                  49x               343x
+giant                  64x               512x
+hero                   81x               729x
+treasure hoard        100x              1000x
+magical wand          121x              1331x
+magical ring          144x              1728x
+magical weapon        169x              2197x
+magical armor         196x              2744x
+artifact              225x              3375x
+ancient hero          256x              4096x
+dragon                289x              4913x
+ancient dragon        324x              5832x
+
+As an example, two goblins results in a return of 4x the original bet, for a profit of 3x 
+the original bet.  The average payout works out to approximately 24x the original bet.  
+This has been verified empirically, and agrees with theory.
+
+Be aware that if the PC uses the slot machines, the Big Casino Guard will block the down 
+staircase and expect the PC to spend his winnings - and more - in the Great Gift Shoppe, 
+which is ridiculously overpriced. This problem can be solved by teleporting the Big Casino 
+Guard. This transports him to another location on the level. He does not become hostile, 
+does not move and behaves exactly as if he were still blocking the stairs (this is probably 
+a bug).
+
+
+3.3.1 Strategies for robbing the Casino
+
+There are two monsters that are particularly tough on the level: the shopkeeper and the big 
+casino guard. Their vital statistics:
+
+Big casino guard: You examine the big casino guard. Diagnosis: Level: 2, 
+DV: 19, PV: 24, Hits: 307, Attacks: 2, Damage: 17-72. Speed: 106.
+
+Shopkeeper: You examine Orgovek, the human shopkeeper. Diagnosis: Level: 11, 
+DV: 10, PV: 20, Hits: 926, Attacks: 6, Damage: 21-36. Speed: 195.
+
+These stats do not change after the monsters become hostile.
+
+The key event in robbing the Casino is causing the monsters on the level to become hostile, 
+whether or not the PC has actually picked up anything from the Great Gift Shoppe. There are 
+a number of events that will cause the monsters to become hostile, including attacking the 
+guards or the shopkeeper and zapping a wand of destruction that damages any of the guards 
+or the walls of the Great Gift Shoppe. Once the monsters become hostile, a number of things 
+happen. First, the number of guards on the level approximately triples. They cluster around 
+both the up and down staircases and are plentiful elsewhere. Second, the teleportation 
+restrictions inside the Great Gift Shoppe cease. This means the PC is free to teleport to 
+any location on the level, but since the up and down staircases will be blocked by guards, 
+it is not possible to teleport to these locations and leave the level.
+
+Invisibility is strange on the level. The casino guards and the big casino guard see 
+invisible. The shopkeeper welcomes an invisible PC when he enters the Great Gift Shoppe, 
+but when an invisible PC picks up an item, the shopkeeper does not immediately block the 
+door. The standard "shopkeeper stares at your position with great intensity" message must 
+be generated before he blocks the door. However, the shopkeeper instantly sounds an alarm 
+when an undetected invisible PC who has picked up an item leaves the Great Gift Shoppe. 
+Despite this, the shopkeeper does not see the invisible PC as he flees through the body of 
+the Casino.
+
+None of the monsters on the level are able to see in darkness. However, some will still 
+cluster around the PC in darkness, while others, including the big casino guard who 
+ordinarily blocks the down staircase, will wander aimlessly. This means that if a PC needs 
+to rest and recover hitpoints, or pray for healing, or drink healing potions, darkness is 
+your friend. A PC can stand in one spot indefinitely in the dark. The tendency of the 
+monsters to cluster around the PC or wander about also means they will leave the vicinity 
+of the staircases. Thus a PC can rob the Casino, cast Darkness, wait, then teleport to the 
+down staircase. This is risky, however, since if the PC is doomed by robbing the Casino 
+(see below) there is a 1 in 1000 chance of an instadeath each turn from a grue attack (see 
+section 0.13.4).
+
+The stats for the shopkeeper above should make it clear that speed is critical when robbing 
+the Casino. Anything that increases speed is valuable - rings of speed, speed boosting 
+potions and especially seven league boots. It is possible to make the shopkeeper hostile by 
+throwing missiles or zapping a spell at him, ideally from as far away as possible, then 
+literally outrun him out of the Great Gift Shoppe. This is one way the Casino can be robbed 
+without any spells whatsoever.
+
+
+3.3.2 Consequences of robbing the Casino
+
+The consequences of robbing the Casino vary according to a couple of factors. First is the 
+alignment of the PC. Lawful PCs will likely be cursed and doomed. Neutral PCs will likely 
+be cursed, perhaps doomed. Chaotics will probably get away with no cursing or dooming. 
+Lawful and neutral PCs will move their alignment towards chaotic. This may or may not be 
+visible on the main screen. It is known for PCs to be so lawful by this point in the game 
+that their alignment does not vary from L+ despite robbing the Casino. The second factor is 
+exactly what transpires during the robbery. Killing the shopkeeper in the process of 
+robbing the Casino is not recommended for crowned champions of Law or Balance, of course. 
+Attacking the guards on the way out or after dragging them down to the next level should 
+not cause an alignment drop as they will be hostile at that point.
+
+The cursing and/or dooming is obviously the biggest problem PCs face after robbing the 
+Casino. Fortunately, there is a shortcut to the surface of the Drakalor Chain (see section 
+3.5) available one or two levels below the Casino. This makes it possible to get to a 
+coaligned altar near the surface quickly and sacrifice in order to get rid of the unwanted 
+cursing or dooming, although it is possible at this point in the game that the player might 
+want to exploit those intrinsics. In any case, remember where those coaligned altars are 
+near the surface! If you plan to rob the Casino, they can be essential.
+
+
+3.4 The shortcut to the surface
+
+A shortcut to the surface from deep in the CoC will be found at about D: 32. This is very 
+handy for those who need access to the surface to complete quests for ultra endings, visit 
+the quickling tree, do the Unicorn quests, etc. It is generally found two dungeon levels 
+below the Casino. It is obvious because there will be two up staircases on the level. The 
+shortcut causes the PC to emerge in Darkforge. The fact that it is close to the Casino is 
+handy if the PC needs access to an aligned altar to remove dooming and/or cursing caused 
+by robbing the Casino.
+
+If the Eternal Guardian was passed peacefully by wearing the Ring of the High Kings, this 
+shortcut works in both directions. If the Eternal Guardian was *not* passed peacefully, 
+the shortcut works in the up direction only. This is a powerful argument for retrieving the 
+RotHK and *not* attempting to pass the EG by trickery or combat.
+
+
+3.5 Battle bunnies
+
+This level is found on D: 33 or D: 34. You will know when you find it, because the level 
+message "You suddenly sense an intense tension." is generated. It consists of a long 
+northern corridor connected to a long southern corridor. Traversing these corridors allows 
+time for the inhabitants of the level, battle bunnies, to breed. This is to be avoided as 
+they breed like, well, rabbits. It can quickly get out of control. The best way to deal 
+with the level is to immediately tunnel (or teleport) south by any means at the PC's 
+disposal and kill Bugs, the leader of the level. This drastically reduces or eliminates 
+further breeding of the bunnies. Kill the remainder and descend. Note that scrolls of 
+vermin control do not work on the level, instead exploding to produce a green cloud of 
+foul smoke.
+
+
+3.6 The Cat Lord
+
+The Cat Lord is found on D: 35 or D: 36. The level message "This level somehow seems to be 
+removed from the rest of the world." is generated upon entering the level.  Note that 
+teleportation is not allowed on the level and ceiling traps may therefore be generated. If 
+the PC has killed no cats, the PC may 'C'hat with the Cat Lord, in which case the following 
+message is generated: "The cat lord growls: "Thou hast respected the cat race. Thus I shall 
+grant upon you this gift." The cat lord suddenly is gone. Nothing but a tiny ring is left 
+of him." In this case, congratulations are due. The PC has the most powerful ring in the 
+game, the artifact Ring of the Master Cat. It is enormously helpful in the end game, 
+particularly because it grants +16 to Dexterity when the PC's dexterity is being destroyed 
+by corruption. The ring's full properties are listed below:
+
+
+-------------- ring of the master cat [+0,+5] {Dx+16} (+16 spd) ------------------
+
+When worn it modifies DV by +0 and PV by +5.
+When used in melee combat it grants a +0 bonus to hit and causes 1d1 points of
+damage. When used as a missile it grants a +0 bonus to hit and causes 1d1
+points of damage.
+
+It modifies your dexterity attribute by +16.
+It is very good at scoring critical hits in melee. It modifies your speed by +16.
+It makes Fate smile upon you.
+It grants the ability to see invisible things.
+
+-----------------------------------------------------------------------------------
+
+If the PC has killed cats, the Cat Lord will be hostile. His power is dependent on the 
+number of cats killed, becoming greater each time a cat is killed.
+
+
+3.7 The Air Temple
+
+The Air Temple is found on a level ranging from D: 38-42, below the Casino. The layout, on 
+the left side of the level, is as follows:
+
+
+       ##################                  ###########   #####################
+       #................#                  #.........#   #....././...........#
+     ###................###                #.........#   #.<...###...>.......#
+     #....................#                #.........#   #.....# #...........#
+   ###.....^^^^^^^^^^.....###              #.........#   ####### #####/#######
+   #.......^########^.......#              #.........#               #.#
+ ###.......^#......#^.......###            #####+#####   ########### #/#######
+ #........^^#......#^^........#                #.#       #.........# #.......#
+ #........^^1^._..^1^^........#                #.#       #.........###.......#
+ #........^^#......#^^........#                #.#       #........././.......#
+ ###.......^#......#^.......###                #/#########.........###.......#
+   #.......^########^.......#                  #......././.........# #.......#
+   ###.....^^^^^^^^^^.....###                  #.@.....############# #########
+     #....................#                    #.......#
+     ###................###                    #.......#
+       #................#                      #.......#
+       ##################                      #########
+
+
+The right side of the level is random. Note that the temple itself is disconnected. Entry 
+must be made by digging. Teleportation is not allowed on the level. Note the traps. The 
+numeral 1 is used to indicate secret doors. Note the underscore in the center of the 
+temple. This is the chaotic elemental altar where the orb guardian is found (at least 
+until he is disturbed and moves). The elemental altars are very dangerous. The air demons 
+(or Yulgash himself) will sacrifice the PC instantly should he step on it. The elemental 
+altars can only be converted by champions of Balance or Order, which means PCs going for 
+an ultra ending cannot convert them early in the game, before retrieving the Medal of 
+Chaos. The monsters in the Air Temple are arrayed as follows:
+
+
+       ##################                  ###########   #####################
+       #rrrrrrrrrrrrrrrr#                  #.........#   #....././...........#
+     ###.CCCCCCCCCCCCCC.###                #.........#   #.<...###...>.......#
+     #r.C..............C..#                #.........#   #.....# #...........#
+   ###.C..&^^^^^^^^^^&..C.###              #.........#   ####### #####/#######
+   #r.C...&^########^&...C..#              #.........#               #.#
+ ###.C...&&^#x....x#^&&...C.###            #####+#####   ########### #/#######
+ #r.C....&^^#.EEEE.#^^&....C.r#                #.#       #.........# #.......#
+ #r.C....&^^1^E@EE^1^^&....C.r#                #.#       #.........###.......#
+ #r.C....&^^#.EEEE.#^^&....C.r#                #.#       #........././.......#
+ ###.C...&&^#x....x#^&&...C.###                #/#########.........###.......#
+   #r.C...&^########^&...C.r#                  #......././.........# #.......#
+   ###.C..&^^^^^^^^^^&..C.###                  #.@.....############# #########
+     #r.C..............C.r#                    #.......#
+     ###.CCCCCCCCCCCCCC.###                    #.......#
+       #rrrrrrrrrrrrrrrr#                      #.......#
+       ##################                      #########
+
+
+They are: r - vapor rats
+          x - air grues
+          & - air demons
+          C - chaos servants
+          E - air elementals
+          @ - (in the center) Yulgash, the Master Summoner
+
+The Air Temple level features intermittent electrical discharges which will destroy both 
+worn items and those in the pack, as well as damaging PCs without good shock resistance 
+or immunity. It is highly advisable to leave precious non-artifact items on the level 
+above or below the Air Temple. To attack the temple, the PC must dig in then attack the 
+monsters. The presence of the secret doors is actually helpful, since ideally the PC can 
+take on the monsters outside of the temple first, without alerting the air elementals and 
+grues. Yulgash will often teleport out of the Temple, however. The air elementals are 
+very tough with many hitpoints and the ability to breathe lightning bolts, which can 
+destroy the PC's equipment. The grues and demons are troublesome because they have a 
+corrupting melee attack that has a very high to-hit. Even PCs with very good DV will be 
+hit by them eventually - a good reason to develop the PCs missile weapon skills.  
+Invisibility is tremendously useful. Only the chaos servants and Yulgash see invisible.
+
+
+3.7.1 Yulgash, the Master Summoner
+
+As befits his name, Yulgash is liable to summon anything up to and including great wyrms 
+and ancient karmic dragons. Killing him as soon as he is aware of the PCs presence is 
+therefore a top priority. Yulgash teleports, has a corrupting melee atack and is a 
+spellcaster.
+
+Yulgash holds the Chaos Orb of Elemental Air, greater identified as follows:
+
+------------------ uncursed Chaos Orb of Elemental Air {Dx+10}-----------------
+
+It is an artifact.
+
+When used in melee combat it grants a +3 bonus to hit and causes 2d9+3 points 
+of damage. When used as a missile it grants a +3 bonus to hit and causes 1d10+3 
+points of damage.
+
+It modifies your dexterity attribute by +10.
+
+(air elemental pet + corruption when 'U'sed)
+
+-------------------------------------------------------------------------------
+
+
+3.8 The Earth Temple
+
+The Earth Temple is found on a level ranging from D: 42-46. The layout, on the right side 
+of the level, is as follows:
+
+
+   #########           #############       ##########################
+   #.......#           #...........#      ##....##............##....##
+   #....<..#############...........#     ##.^..^.##..........##.^..^.##
+   #......./.........../...........#     #........###......###........#
+   #####################...........#     #........# ######## #........#
+             #......./.+...........#     ##.^..^.#####....#####.^..^.##
+ #########   #.......###...........#     ###....##.##......##.##....###
+ #.......#   #.......# #..........@#     #.###1#####..._....#####1###.#
+ #.......#   #.......# #######/#####     #...#.^^^.1........1.^^^.#...#
+ #.......#   #.......#       #.#         #.###1######......######1###.#
+ #.......#####.......#       #.#         ###....##..##....##..##....###
+ #.......+...+.......#       #.#         ##.^..^.##.########.##.^..^.##
+ #.......############# #######/#         #........###......###........#
+ #.......#             #.......#         #........#..........#........#
+ #######+###############..>....#         ##.^..^.##..........##.^..^.##
+       #.......................#          ##....##............##....##
+       #########################           ##########################
+
+
+The left side of the level is random. Note that the temple itself is disconnected. Entry 
+must be made by digging. Teleportation is not allowed on the level. Some of the walls in 
+the Earth Temple are undiggable, but there is a way into every room by digging - it may 
+take some experimentation to find it. Note the traps. The numeral 1 is used to indicate 
+secret doors. Note the underscore in the center of the temple. This is the chaotic 
+elemental altar where the orb guardian is found (at least until it is disturbed and 
+moves). The standard warning about standing on altars applies - the stone grues (and 
+possibly other monsters) found on this level are capable of speech and will sacrifice the 
+PC. The elemental altars can only be converted by champions of Balance or Order, which 
+means PCs going for an ultra ending cannot convert them early in the game, before 
+retrieving the Medal of Chaos. The monsters in the Earth Temple are arrayed as follows:
+
+
+   #########           #############       ##########################
+   #.......#           #...........#      ##C..C##EEEEEEEEEEEE##C..C##
+   #....<..#############...........#     ##.^..^.##..........##.^..^.##
+   #......./.........../...........#     #...EE...###YYYYYY###...EE...#
+   #####################...........#     #...EE...# ######## #...EE...#
+             #......./.+...........#     ##.^..^x#####xxxx#####x^..^.##
+ #########   #.......###...........#     ###C..C##x##xEEEx.##x##C..C###
+ #.......#   #.......# #..........@#     #s###1#####.xEFEx..#####1###s#
+ #.......#   #.......# #######/#####     #ssC#Y^^^Y1xxEEEx.x1Y^^^Y#Css#
+ #.......#   #.......#       #.#         #s###1######xxxxxx######1###s#
+ #.......#####.......#       #.#         ###C..C##xx##....##xx##C..C###
+ #.......+...+.......#       #.#         ##.^..^.##x########x##.^..^.##
+ #.......############# #######/#         #...EE...###xYYYYx###...EE...#
+ #.......#             #.......#         #...EE...#Y........Y#...EE...#
+ #######+###############..>....#         ##.^..^.##Y........Y##.^..^.##
+       #.......................#          ##C..C##EEEEEEEEEEEE##C..C##
+       #########################           ##########################
+
+
+They are: s - stone snakes
+          x - stone grues
+          Y - stone golems
+          C - chaos servants
+          E - earth elementals
+          F - (in the center) the Ancient Stone Beast
+
+To attack the temple, the PC must dig in then attack the monsters. All of the monsters 
+here with the exception of stone golems and chaos servants are able to travel through 
+stone, so in practice the PC will probably be attacked before penetrating the walls of the 
+temple. Stone snakes are poisonous, stone grues have a corrupting melee attack and earth 
+elementals throw rocks, apparently using slings which are often left behind when they are 
+killed. Earth elementals have many hitpoints and regenerate. Exact statistics for earth 
+elementals and stone grues are not available from a blessed stethoscope - the game responds 
+that the monster "rather seems to be a piece of furniture." The monster memory states that 
+earth elementals have about 210 hitpoints, stone grues about 240 hitpoints. They both have 
+a PV of 40, so use a powerful melee attack or they will take forever to kill. All of these 
+monsters will fall to brute force or magic.
+
+
+3.8.1 The Ancient Stone Beast
+
+Attacking the Ancient Stone Beast may seem like attacking a wall of granite. It has over 
+1000 hitpoints:
+
+You examine the Ancient Stone Beast. Diagnosis: Level: 1, 
+DV: 10, PV: 60, Hits: 1091, Attacks: 1, Damage: 15-60. Speed: 91.
+
+Not fast, not overwhelming PV, but it can take a formidable amount of bashing to bring down 
+this creature. Not helping matters is the fact that it regenerates wounds and has a 
+corrupting melee attack.
+
+The Ancient Stone Beast holds the Chaos Orb of Elemental Earth, greater identified as follows:
+
+----------------- uncursed Chaos Orb of Elemental Earth {To+10}----------------
+
+It is an artifact.
+
+When used in melee combat it grants a +3 bonus to hit and causes 3d9+3 points 
+of damage. When used as a missile it grants a +3 bonus to hit and causes 1d10+3 
+points of damage.
+
+It modifies your toughness attribute by +10.
+
+(earthquake + corruption when 'U'sed)
+-------------------------------------------------------------------------------
+
+
+3.9 Sharad-Waador's quest and the blue dragon caves
+
+Sharad-Waador is an ancient karmic wyrm found in the unreal cave system branch off the CoC 
+at D: 46 or D: 47. He is found on level 4. He is nonhostile and will assign a quest to kill 
+an ancient blue wyrm, Srraxxarrakex, who is his mortal enemy. This is a difficult quest and 
+is in no way necessary to finish the game. Part of the difficulty is the presence of 
+Srraxxarrakex's children: many different blue dragons including ancient blue dragons which 
+see invisible. Blue dragons breathe lightning bolts, which will damage a PC without very 
+good resistance or immunity as well as destroying items, both worn and in the pack. There 
+is no way to prevent the item destruction. Items can be left in Sharad-Waador's room for 
+safekeeping while on the quest. Sharad-Waador does not move unless he is attacked or the PC 
+reneges on the deal to take the quest.
+
+To receive the quest, the PC must first decide what equipment will be left behind, drop it, 
+stand on the down staircase in Sharad-Waador's room, then 'C'hat with him. This sequence of 
+events is necessary because Sharad-Waador will not chat with the PC until the PC is on the 
+down stairs, and after chatting with the PC demands that the PC descend immediately. If the 
+PC moves off the staircase at this point, Sharad-Waador becomes hostile.  A trick that can 
+be used is leaving some of the PC's precious but 'might be needed' equipment *on* the 
+stairway.  Sharad-Waador does not become hostile if the PC emerges from the blue dragon 
+caves without moving from the stairway.  This provides a means of protecting very valuable 
+equipment (such as scrolls of chaos resistance) that might be needed to save the PC's life.
+
+The blue dragon caves consist of five levels, DL: 1-5. In addition to the many varied blue 
+dragons found in these caves, other nasty high level monsters may be found here, including 
+chaos wizards and greater molochs, for example. It is wise to have some means of dealing 
+with greater molochs along, whether it is simply speed for running away, phase daggers or 
+demon slayers. High speed is virtually essential for killing Srraxxarrakex, as well. Upon 
+entering the fifth and final level of the caves, the following message is generated: "These 
+ancient caves are covered with marks from huge reptiles... hundreds of such marks." 
+Srraxxarrakex will be found on this level.
+
+When the blue dragon caves were first implemented, there were complaints that the quest was 
+impossible due to the item destruction. The amount of item destruction has been toned down 
+a bit in more recent gammas, and some players will actually scum these caves because 
+killing the blue dragons generates large amounts of valuable equipment, sometimes including 
+very valuable items such as scrolls of chaos resistance or rings of djinni summoning.
+
+The main reason for taking this quest however, is because Sharad-Waador rewards the PC with 
+a huge pile of equipment for completing it. Among this equipment, which generally does not 
+contain anything remarkable, is the artifact dagger Needle. Be very careful with this pile of 
+equipment.  Needle is indistinguishable from ordinary daggers until it is identified.  It is 
+best to have a blessed scroll of identify at the ready, to identify all the treasure the PC 
+has taken from the blue dragon caves and the heap of stuff Sharad-Waador provides.  The junk 
+can then be safely dropped without risking misplacing Needle.  When Needle is combined with 
+its twin, the artifact dagger Sting, held by the Assassin Prince, they become the most 
+powerful weapons in the game, at least in terms of raw to-hit and to-damage. If a PC planning 
+an ultra ending makes it this far, check section 2.11.3.1 and get the Filk quest from the 
+Assassin Prince. He can then be killed for Sting, if desired.
+
+
+3.9.1 Srraxxarrakex
+
+Sraxxarrakex is a very powerful ancient blue wyrm, more powerful than any other ancient 
+wyrm in the game. He is, as might be expected, immune to shock. One of the things that 
+makes him so difficult to defeat is the fact that he naturally regenerates *and* casts 
+powerful healing spells at the same time. He has three attacks per round, so he can, for 
+instance, breathe a lightning bolt, attack in melee, cast heal, while still getting natural 
+regeneration *per round*. His vital statistics:
+
+You examine Srraxxarrakex, the ancient blue wyrm. Diagnosis: Level: 1, 
+DV: 60, PV: 40, Hits: 951, Attacks: 3, Damage: 20-76. Speed: 113.
+
+This means the PC must be capable of dealing massive amounts of damage quickly in order to 
+defeat him. He can be attacked in almost any way, including melee, missiles and magic. He 
+is of course vulnerable to dragon slaying missiles and melee weapons.
+
+Killing him is worth 1.6 million experience points.
+
+
+3.10 The Mana Temple
+
+The Mana Temple is found on its own level, MT, the last level of the UL, the unreal cave 
+system. The UL is a side branch off the main CoC at D: 46 or D: 47. The layout, on the 
+right side of the level, is as follows:
+
+
+ #################
+ #........./.....#                        ############################
+ #.........#####.###################      #^^^^^^^^^^^^^^^^^^^^^^^^^^#
+ #.........#   #.........../.......#      #^########################^#
+ #.........#   #########.###.......#      #^#......................#^#
+ #.........#         #...# #.......#      #^#......................#^#
+ ###########     #####.### #.......#      #^#................###...#^#
+                 #.....#   #.......#      #^#.................#....#^#
+   ###############.#####   #.......#      #^1................._....#^#
+   #...............#       #.......#      #^#.................#....#^#
+   #.........#.#####       #########      #^#................###...#^#
+   #.........#.#                          #^#......................#^#
+   #.........#.#####################      #^#......................#^#
+   #.........#./.....+.............#      #^########################^#
+   #.........###.....#######....@..#      #^#^^^^^^^^^^^^^^^^^^^^^^^^#
+   #.........# #.....#     #.......#      ###1########################
+   ########### #######     #########        #.#
+                                            ###
+
+
+The left side of the level is random. Note that the temple itself is disconnected. Entry 
+must be made by digging. Teleportation does not work on this level. The walls of the Mana 
+Temple itself are undiggable. It must be entered through the single square room at the 
+southwest of the Temple. Note the traps completely surrounding the Temple. Ceiling traps 
+replace teleportation traps in the Mana Temple. The numeral 1 is used to indicate secret 
+doors. Note the underscore in the eastern center of the temple. This is the chaotic 
+elemental altar where the orb guardian is found (at least until he is disturbed and moves). 
+The standard warning about standing on altars applies - many of the monsters are capable of 
+speech and will sacrifice the PC. The elemental altars can only be converted by champions 
+of Balance or Order, which means PCs going for an ultra ending cannot convert them early in 
+the game, before retrieving the Medal of Chaos. The monsters in the Mana Temple are arrayed 
+as follows:
+
+
+ #################
+ #........./.....#                        ############################
+ #.........#####.###################      #^^^^^^^^^^^^^^^^^^^^^^^^^^#
+ #.........#   #.........../.......#      #^########################^#
+ #.........#   #########.###.......#      #^#ee.e.e.e.e.e........eC#^#
+ #.........#         #...# #.......#      #^#e.C.C.C.C.C.C...CCC..C#^#
+ ###########     #####.### #.......#      #^#e.C.C.C.C.C.C..C###C.C#^#
+                 #.....#   #.......#      #^#e.C.C.C.C.C.C.C.C#CC.C#^#
+   ###############.#####   #.......#      #^1.................@CC.C#^#
+   #...............#       #.......#      #^#e.C.C.C.C.C.C.C.C#CC.C#^#
+   #.........#.#####       #########      #^#e.C.C.C.C.C.C..C###C.C#^#
+   #.........#.#                          #^#e.C.C.C.C.C.C...CCC..C#^#
+   #.........#.#####################      #^#ee.e.e.e.e.e........eC#^#
+   #.........#./.....+.............#      #^########################^#
+   #.........###.....#######....@..#      #^#^^^^^^^^^^^^^^^^^^^^^^^^#
+   #.........# #.....#     #.......#      ###1########################
+   ########### #######     #########        #.#
+                                            ###
+
+
+They are: e - magebane eyes
+          e - magedoom eyes
+          C - chaos servants
+          C - annihilators
+          C - chaos wizards
+          @ - Nuurag-Vaarn, the Chaos Archmage
+
+To attack the temple, the PC must travel through the trap-filled tunnel around the temple. 
+During this, the magebane eyes and magedoom eyes will be draining the power points of the 
+PC. Classes which are dependent on power points are well advised to bring along blessed 
+scrolls of power. If possible, a wand of trap detection should be saved for the Mana 
+Temple. This is a much faster way of detecting the traps than using the Detect Traps skill, 
+especially when combined with the Farsight spell or a necklace of the eye. The faster this 
+tunnel is traversed, the less time the eyes have to drain the PP of the PC. The Mana Temple 
+ranks with the nastiest places in the game. Many players do not enter the temple itself, 
+instead staying in the corridor. Using this technique, the monsters can be fought one at a 
+time. Even so, the chaos wizards are summoners, so the PC can still be surrounded by 
+summoned monsters in the corridor. The objective using this method is to wait for 
+Nuurag-Vaarn to exit the temple, kill him, collect the Orb and flee.
+
+
+3.10.1 Nuurag-Vaarn, the Chaos Archmage
+
+Nuurag-Vaarn is a difficult opponent, to say the least. He has a corrupting melee attack. 
+He is very fond of casting spells, especially Death Ray and Darkness. Entering the Mana 
+Temple without a means of death ray resistance is virtual suicide. He is also very good at 
+confusing the PC and is a stat drainer. He is immune to elemental attacks other than acid. 
+He is vulnerable to humanoid slaying ammo; this is a good way to attack him if the PC can 
+maintain a clear shot at him through all the monsters, summoned and otherwise, in the 
+temple.
+
+Nuurag-Vaarn's vital statistics:
+
+You examine Nuurag-Vaarn, the invisible Chaos Archmage. Diagnosis: Level: 1, 
+DV: 60, PV: 30, Hits: 938, Attacks: 2, Damage: 9-36. Speed: 112.
+
+To summarize the prerequisites needed to fight Nuurag-Vaarn:
+
+1 - Death Ray resistance - essential
+2 - confusion resistance - essential
+3 - light source - essential
+4 - humanoid slaying ammo - recommended
+
+Nuurag-Vaarn holds the Chaos Orb of Elemental Mana, greater identified as follows:
+
+------------------ uncursed Chaos Orb of Elemental Mana {Ma+10}----------------
+
+It is an artifact.
+
+When used in melee combat it grants a +3 bonus to hit and causes 1d16+3 points 
+of damage. When used as a missile it grants a +3 bonus to hit and causes 1d10+3 
+points of damage.
+
+It modifies your mana attribute by +10.
+
+(full PP, +12 to PP, +3 Mana, corruption when 'U'sed)
+-------------------------------------------------------------------------------
+
+
+3.11 D: 48
+
+Warning: following the procedures on this page is irreversible. The PC cannot return to 
+the higher levels of the CoC. Have everything you will need with you before proceeding.
+
+Level 48 of the Caverns of Chaos contains five elemental anomalies corresponding to the 
+five Chaos Orbs. They are guarded by four elemental grues with the usual corrupting grue 
+melee attack. The mana anomaly is not guarded by a grue, but rather a chaos wizard. The 
+idea here is to 'U'se each Chaos Orb while standing on the appropriate elemental anomaly. 
+A transcript of the results and some remarks follow:
+
+Mana anomaly - green underscore:
+--------------------------------
+You face a strange small rift in the air leading into unknown dimensions of pure energy.
+
+Do you want to drop the blessed Chaos Orb of Elemental Mana into the rift? [y/N]
+
+You drop the blessed Chaos Orb of Elemental Mana into the strange rift.
+
+For some seconds a strange silence fills the whole level.
+
+Suddenly the rift disappears.
+--------------------------------
+
+Using the mana orb in this way causes the PC's power points to drop to zero and a loss 
+of two points of the Mana attribute.  For this reason, spellcasters may want to do this 
+anomaly first, to allow the maximum time for PP to regenerate.  Blessed scrolls of power 
+are very useful here.
+
+Earth anomaly - brown underscore:
+---------------------------------
+You face a man-high stone column with a round opening in the center.
+
+Do you want to put the uncursed Chaos Orb of Elemental Earth {To+10} into the hole? [y/N]
+
+You fit the uncursed Chaos Orb of Elemental Earth {To+10} into the stone column.
+
+For some seconds the whole level is shaking.
+
+Suddenly the column disappears.
+---------------------------------
+
+The shaking of the level seems to imply some sort of minor earthquake, but the level 
+takes no damage as a result.
+
+Water anomaly - blue underscore
+-------------------------------
+You face a shimmering pool of unknown depth.
+
+Do you want to throw the uncursed Chaos Orb of Elemental Water {Wi+10} into shimmering 
+pool? [y/N]
+
+You throw the uncursed Chaos Orb of Elemental Water {Wi+10} into the shimmering pool.
+
+For some seconds the air gets very humid on this level.
+
+Suddenly the humidity dispenses and everything is normal once more.
+-------------------------------
+
+The humidity generated by this operation will damage anything vulnerable to water damage 
+- be careful, have waterproof blankets, do not have unprotected iron armor or weapons 
+exposed.
+
+Air anomaly - bright blue underscore
+------------------------------------
+You face a man-high whirlwind rising out of a hole in the ground.
+
+Do you want to throw the uncursed Chaos Orb of Elemental Air {Dx+10} into the 
+whirlwind? [y/N]
+
+You throw the uncursed Chaos Orb of Elemental Air {Dx+10} into the whirlwind.
+
+For some seconds a roaring wind soars through this level.
+
+Suddenly everything is silent and the whirlwind disappears.
+------------------------------------
+
+This roaring wind seems to do no damage.
+
+Fire anomaly - red underscore
+-----------------------------
+You face a man-high bonfire.
+
+Do you want to throw the blessed Chaos Orb of Elemental Fire {St+10} into the 
+roaring bonfire? [y/N]
+
+You throw the blessed Chaos Orb of Elemental Fire {St+10} into the bonfire.
+
+For some seconds the whole level is filled with an immense heat. You resist the searing 
+flames.
+
+Suddenly the level cools down once more and the bonfire is gone.
+-----------------------------
+
+The fire anomaly is by far the most dangerous. It will damage anything vulnerable to fire. 
+This includes any monsters that may be wandering the level. That includes cats. It is very 
+disappointing and frustrating to kill a cat in this way and have the hard-fought-for Ring 
+of the Master Cat explode at this point. Zap a wand of monster detection or read a scroll 
+of monster detection before using the fire orb in the anomaly. It also damages a 
+necromancer PC's slaves. It may not kill them, but undead are vulnerable to fire damage, 
+and a partially fried and very angry extremely experienced level 110 quickling king lich 
+is not something the PC wants to worry about at this point. Leave undead slaves on D: 47. 
+Pets, companions and slaves cannot cross D: 49 anyway.
+
+After all of the orbs are in their proper places, the PC receives the following message:
+
+You hear a grating sound in the distance.
+
+This means the up staircase has reversed direction and now points down. There is no way to 
+return to D: 47 at this point. The PC is now committed to going through D: 49 to D: 50, 
+either to win or die.
+
+
+3.12 D: 49
+
+Level 49 of the Caverns of Chaos is called the frictionless level by many players. It is 
+covered with ice that is too slippery to cross by normal means. Spiked boots do not help. 
+Teleportation fails on this level. Since the ice is (almost) frictionless, throwing objects 
+will propel the PC in the opposite direction (remember freshman physics?). There is also a 
+special gift available on this level. If the PC equips a potion of uselessness in the 
+missile slot and throws it, a deity rewards the PC for finding a use for the potion with a 
+random artifact. The following messages are typical of those generated upon entering and 
+throwing a potion of uselessness:
+
+There is a stair leading downwards here.
+You climb downwards...
+The ground seems to be covered with a very slippery layer of ice. It's cold here! 
+There is a stair leading upwards here.
+[T]arget -- [Z] Abort. (x2)
+The uncursed potion of uselessness thuds into an obstacle. The uncursed potion of 
+uselessness shatters! You slide to the west. You suddenly hear a booming voice!
+"*YE REALLY HAST FOUND A USE FOR THIS PETTY ITEM*"
+"*YER INGENUITY SHALL BE REWARDED*"
+Something is lying before you. Out of ammunition.
+Reload with the heap of 14 uncursed rocks (+1, 1d4)? ([y]es, [n]o, [q]uit) Q
+Blessed shining silver bracers (10s) are lying here. You shudder. You resist the icy blast.
+You pick up the blessed shining silver bracers. You sneeze. You resist the icy blast.
+
+This particular PC was very lucky and received the Bracers of War. As mentioned the 
+artifact is random and can be potentially worthless. Note the cold-related messages. This 
+is troublesome for drakelings, who will find themselves frozen nearly solid. A reduction in 
+speed to 10 is typical. If the player is aware of this, it is not a huge problem. Upon 
+entering CoC 50, cast Improved Fireball adjacent to the PC or zap a wand of fire at the 
+PC's location repeatedly until speed is reasonable again.
+
+The following map shows the results of using rocks and a sling to travel through CoC 49. 
+Note the rocks are closer together in the final central corridor. This was deliberately 
+done to show the results changing when the PC switched from a sling of the long shot to a 
+normal sling. Use whatever is handy, effective and expendable to travel through CoC 49 - 
+rocks, arrows, guaranteed returning missiles such as a boomerang, even that worthless pile 
+of sis the PC has been dragging around forever. Do NOT use missile weapons that are not 
+guaranteed to return such as the rune-covered trident or the Hammer of the Gods. Given the 
+nature of CoC 49, the PC may never be able to stop exactly where they fell to retrieve 
+them.
+
+The walls of D: 49 are diggable with the Mystic Shovel spell, a wand of digging, a pickaxe, 
+the Elementalist class power and a monk's kicking ability. Monks using their ability will 
+be propelled backward one square, and the rock may or may not shatter, making this 
+technique somewhat awkward. The newly dug area remains too slippery to cross. This offers 
+drakelings a potentially faster way through D: 49.
+
+
+                                                                          ###
+###########################################################################.#
+#*........*.................*........*........*........*........*.........**#
+##.########################################################################.#
+ #.#                                                                      #.#
+ #.#                                                                      #.#
+ #.#                                                                      #.#
+ #.#                                                                      #.#
+ #*#                                                                      #.#
+ #.#                                   ####################################.##
+ #.#                                   #@.*....*....*....*....*....*........*#
+ #.#                                   #######################################
+ #.#
+ #.#
+ #.#
+ #.#
+ #.############################################################################
+ #**.........*........*........*........*........*........*........*........*<#
+ #.############################################################################
+ ###
+
+
+3.13 D: 50
+
+Level 50 of the Caverns of Chaos is the final battleground for those not attempting an 
+ultra ending. It is appropriately challenging. The Mana Temple will have provided an idea 
+of what CoC 50 will be like for PCs that make it this far. There will undoubtedly be many 
+additions and revisions to this section.
+
+The level layout on the left side of the level is as follows:
+
+
+############                             #######
+#&.........#                             #.....#
+#..........############      #######     #.....#
+#.....................#      #.....#     #.....#
+#1###################.#      #.....#     #.....################# ###########
+#...........##      #.#      #.....#     #...............+.....# #.........#
+#............##     #1########.....#     #################.....###..@.<....#
+#.............#   ###.......######.#                     #.....+.+.........#
+#.............#####..........#####.#######################.....#############
+#8......................................................./.....#
+#.............#####..........#####.###########################/#     #######
+#.............#   ###.......######.#       #.........#       #.#     #.....#
+#............##     #1########.....#       #.........#       #.#     #.....#
+#...........##      #.#      #.....#       #.........#       #.#     #.....#
+#1###################.#      #.....#       #.........#########.#######.....#
+#.....................#      #.....#       #........./.............../.....#
+#&.........############      #######       #################################
+############
+
+
+The numeral 1 represents secret doors.
+
+The right side of the level is random. Note the dungeon features. The & symbols in this map 
+do not represent demons but rather levers. These control the state of the Chaos Gate, 
+represented by the 8 in the large central room. These features cannot be seen in the color 
+map on the web site.
+
+Note that all of the & symbols in the color map *do* represent balors - there are balors 
+standing on the levers.
+
+There are two basic ways to finish CoC 50: The object of the level is to 'h'andle both of 
+the levers, thus closing the Chaos Gate and ending the incursion of chaos into Ancardia. 
+This can initially be accomplished by clearing the northern and southern corridors and 
+'h'andling the levers. However, some of the monsters on CoC 50 are intelligent enough to 
+reopen the gate. To ensure that the levers remain in their closed position, the PC has two 
+choices: ensure the levers remain in their closed position forever, or make sure the 
+following intelligent monsters are all dead: Fistanarius, balors, ghost lords and chaos 
+wizards.
+
+A third alternative is available for those PCs who aspire to a special ending, which 
+require Chaos Gate entry. Much of the combat on D: 50 can be bypassed as soon as it is 
+possible to teleport to the location of the Chaos Gate. In order to do this, Fistanarius, 
+the greater balor, must move from his position on top of the Chaos Gate. See section 4 
+Special Endings, for more about the (extensive) requirements for attempting a special 
+ending.
+
+Wands of destruction ending
+
+One relatively easy way to finish CoC 50 is to use wands of destruction. This, and the 
+variation using wands of door creation / monster creation below, require substantially less 
+combat than a traditional ending. The level is diggable, so it is possible to tunnel into 
+the northern and southern corridors and clear them. Remember they are closed by secret 
+doors. During this, some of the intelligent monsters may sense what is happening - ghost 
+lords may pass through the walls, balors may teleport in. When both corridors are cleared, 
+'h'andle one of the levers to close it. Zap a wand of destruction to destroy it in its 
+closed state. This will open the walls to the large central room and make all of those 
+monsters pursue the PC. Teleport to the other lever, 'h'andle it to close it and zap a wand 
+of destruction to destroy it. Teleport to the up staircase and leave. You've won. Here is 
+an example of what the level might look like after doing this:
+
+
+######    ######################################
+#....######...*.***..]*.*.......&..............##                 #######
+#%.[C.C....[###################################.##                #.....#
+#.CC.......############      #######          ##.##################$....#
+#C..G..C......C.CC....#      #CCCCC#           #.&.....#.........+.....#
+#C...################.#      #CCCCC#           #.......#.###########.#.#
+#......CCCCC##      #C#      #CCCCC#           #.......#.#         #.#.#
+#.C.C........##     ##########CCCCC#   #########.......#.###########.#.###
+#C..C.GGGGGG..#   ###jjjjjjj######.#   #.....+.+.......#...............[.#
+#.C.C.GGGGGG..#####jjjjjjjjjj#####.#####.....#######/###.#############+#+###
+#&&CCCGGGGGG..C...jjjjjjjjjjjjCCCCCCC../..&..#     #.# #&#           #....&#
+#.....GGGGGG..#####jjjjjjjjjj#####.###########   ###/###/#########   #..&..#
+#CCCG..GGGGG..#   ###jjjjjjj######.#             #.[....././.....#   #.....#
+#C..CCCC.....##     ##########CCCCC#   ###########...../&###.....#   #.....#
+#C...C..CCCC##      #C#      #CCCCC#   #...../.../.......# #.....#   #.....#
+#...C.###############C#      #CCCCC#   #..<@.#####.......# #######   #######
+#..[[.....C..C...CCCCC#      #CCCCC#  ##.....#   #....!..#
+#..C[.....[############################.######   #########
+#......####*.*].**.....................##
+########  ##############################
+
+
+
+
+Note most of the balors, but not Fistanarius, have teleported to search for the PC. The 
+chaos mutants in the center, the greater chaos servants in the central corridor, the 
+writhing masses of primal chaos and most of the ghost lords have not even moved.
+
+Wands of door creation / monster creation ending
+
+This is a variation on the above technique. It is somewhat safer in that the big room never 
+has to be opened at all, but both wands of door creation with at least six total charges 
+and a wand of monster creation with two charges are required. 
+
+This method starts with the same approach as outlined above - clear the northern and 
+southern corridors after entering them by digging. Zap a wand of door creation twice to 
+almost enclose one of the levers. Handle the lever to close it. Zap a wand of monster 
+creation to create a monster on the closed lever to prevent balors from teleporting to that 
+space. Zap a wand of door creation to trap the monster on that square. Teleport to the 
+other lever and repeat. Teleport to the stairs and leave.
+
+This method has some problems, as does the wands of destruction ending above. Regardless, 
+they are much, much easier than the alternative of killing the intelligent monsters on the 
+level. First, some monsters will open doors, so it may be necessary to keep zapping, 
+killing the monster and repeating until something suitable is generated. Locking the door 
+will solve this problem if the PC has an appropriate key, which he should by this time. 
+Second, you must be quick, which is why teleportation is recommended. It is quite likely 
+that the balors will start teleporting to investigate the levers, and they are quite 
+capable of opening the doors or smashing them if locked, killing the monster standing on 
+the lever and reactivating the lever. Third is simply a philosophical problem. The PC has 
+not really fulfilled the requirements for winning, but is taking advantage of the fact that 
+the level will remain frozen after he leaves. Nonetheless, the game counts this as a win.
+
